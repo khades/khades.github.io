@@ -17,8 +17,8 @@
     display: inline;
     width:  50%;
     height: 100vh;
-    ">
-        <iframe src="https://www.twitch.tv/embed/mob5tertv/chat" style="
+    "></div>
+        <iframe id="iframe" src="" style="
     -moz-transform: scale(-1, 1);
 -webkit-transform: scale(-1, 1);
 -o-transform: scale(-1, 1);
@@ -32,5 +32,12 @@ transform: scale(-1, 1);
         </iframe>
 
 </body>
+<script  type="text/javascript" >
+    function ready() {
+      document.getElementById('iframe').src = "https://streamlabs.com/widgets/chat-box/v1/"+window.location.search.substr(1).split("=")[1]
+    }
+
+    document.addEventListener("DOMContentLoaded", ready);
+</script>
 
 </html>
