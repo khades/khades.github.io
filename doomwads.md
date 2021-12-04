@@ -1,4 +1,4 @@
-# doom wads i play
+# Grind to sunlust
 ![https://i.imgur.com/4qoee3g.jpg](https://i.imgur.com/4qoee3g.jpg)
 
 Name | Announced Difficulty | Actual Difficulty | Rating | review
