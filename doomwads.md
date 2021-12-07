@@ -13,7 +13,7 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~plutonia~~ | 3| 2.5 |4/5| difficult yeah, nice small maps with tight encounters, tad worse than MM in design, no ammo starvation tho. WTF was map28 and map29 tho.
 ~~scythe~~ | 3| 3.5 |4.5/5| Nice smallest maps, difficulty ramp is nice, last third is dickish. Map30 is just like most of hell revealed, which not like all other maps of WAD.
 Eviternity | - | 3.5 | 4.5/5 | Exceptional map design and assets, low ammo amount, so ammo management
-hell revealed |3| 4 |3.5/5| Nice classic-like maps, at map13 already hard af, too bad it is dragging to long, as standalone challenge - ok, not in my case. Map18 is outright bad. Getting too long like evilution? Feel like cheating using mouse aim. Map24 is insane.
+~~hell revealed~~  |3| 4 |3.5/5| Nice classic-like maps, at map13 already hard af, too bad it is dragging to long, as standalone challenge - ok, not in my case. Map18 is outright bad. Getting too long like evilution? Feel like cheating using mouse aim. Map24 and Map25 are insane. Almost dropped it off.
 valiant |4
 kama sutra |4
 alien vendetta black edition |4
