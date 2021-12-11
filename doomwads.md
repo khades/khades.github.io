@@ -12,7 +12,7 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~memento mori II~~|2| 2 |4.5/5| Almost same as MM1, but slightly more harder and slighly less ammo, map12 is VERY sigil-like.
 ~~plutonia~~ | 3| 2.5 |4/5| Nice small maps with tight encounters, tad worse than MM in design, no ammo starvation tho. WTF was map28 and map29 tho.
 ~~scythe~~ | 3| 3.5 |4.5/5| Nice smallest maps, difficulty ramp is nice, last third is dickish. Map30 is just like most of hell revealed, which not like all other maps of WAD.
-Eviternity | - | 3.5 | 4.5/5 | Exceptional map design and assets. Ammo management. With sector lightning like that you dont need dynamic lightning.
+Eviternity | - | 3.5 | 5/5 | Exceptional map design and assets. Ammo management. With sector lightning like that you dont need dynamic lightning.
 ~~hell revealed~~  |3| 4 |3.5/5| Nice classic-like maps. At map13 already hard af. Map18 is outright bad.  Feel like cheating using mouse aim. Map24 and Map25 are insane. Almost dropped it off, dragged to long, longer than plutonia+scythe.
 valiant |4
 kama sutra |4
