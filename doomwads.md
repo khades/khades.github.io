@@ -15,11 +15,11 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~hell revealed~~  |3| 4 |3.5/5| Nice classic-like maps. At map13 already hard af. Map18 is outright bad.  Feel like cheating using mouse aim. Map24 and Map25 are insane. Almost dropped it off, dragged to long, longer than plutonia+scythe.
 Eviternity | - | 3.5 | 5/5 | Exceptional map design and assets. Ammo management. With sector lightning like that you dont need dynamic lightning. Map32 has great Metroidvania feel, meanwhile Map19 is linear and not done good enough with linedefs.
 valiant |4
-ancient aliens |
+ancient aliens | -
 kama sutra |4
 alien vendetta black edition |4
-~~hell revealed II~~ |5 | - | - | Won't play, a lot of people said a lot bad things about it
+~~hell revealed II~~ |5 | - | - | Won't play, a lot of people said a lot bad things about it.
 scythe II|5
 deus vult II|5
 sunlust|6
-sunder|6
+sunder|6 | - |- | Wont probably play.
