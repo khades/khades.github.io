@@ -14,8 +14,8 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~scythe~~ | 3| 3.5 |4.5/5| Nice smallest maps, difficulty ramp is nice, last third is dickish. Map30 is just like most of hell revealed, which not like all other maps of WAD.
 ~~hell revealed~~  |3| 4 |3.5/5| Nice classic-like maps. At map13 already hard af. Map18 is outright bad.  Feel like cheating using mouse aim. Map24 and Map25 are insane. Almost dropped it off, dragged to long, longer than plutonia+scythe.
 ~~Eviternity~~ | - | 3.5 | 5/5 | Exceptional map design and assets. Ammo management. With sector lightning like that you dont need dynamic lightning. Map32 has great Metroidvania feel, meanwhile Map19 is linear and not done good enough with linedefs.
-valiant |4
 ancient aliens | -
+valiant |4
 kama sutra |4
 alien vendetta black edition |4
 ~~hell revealed II~~ |5 | - | - | Won't play, a lot of people said a lot bad things about it.
