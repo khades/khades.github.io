@@ -22,4 +22,5 @@ alien vendetta black edition |4
 scythe II|5
 deus vult II|5
 sunlust|6
-sunder|6 | - |- | Wont probably play.
+sunder|6 | - |- | Wont probably play. Replaced with entry lower
+stardate 20X7|6|- | - |-
