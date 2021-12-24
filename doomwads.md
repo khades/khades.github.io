@@ -25,4 +25,4 @@ resurgence|5
 deus vult II|5
 sunlust|6
 ~~sunder~~|6 | - |- | Wont play. Replaced with next entry
-stardate 20X7|6|- | - |-
+stardate 20X7|-|- | - |-
