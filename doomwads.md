@@ -12,11 +12,11 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~memento mori II~~|2| 2 |4/5| Almost same as MM1, but slightly more harder and slighly less ammo, map12 is VERY sigil-like.
 ~~plutonia~~ | 3| 2.5 |3.5/5| Nice small maps with tight encounters, tad worse than MM in design, no ammo starvation tho. WTF was map28 and map29 tho.
 ~~scythe~~ | 3| 3.5 |4.5/5| Nice smallest maps, difficulty ramp is nice, last third is dickish. Map30 is just like most of hell revealed, which not like all other maps of WAD.
-~~hell revealed~~  |3| 5 |2.5/5| Nice classic-like maps. At map13 already hard af. Map18 is outright bad.  Feel like cheating using mouse aim. Map24 and Map25 are insane. Almost dropped it off, dragged to long, longer than plutonia+scythe.
+~~hell revealed~~  |3| 5 |2.5/5| Classic-like maps. At map13 already hard af. Map18 is outright bad. Feel like cheating using mouse aim. Map24 and Map25 are insane. Almost dropped it off, dragged to long, longer than plutonia+scythe.
 ~~Eviternity~~ | - | 3.5 | 4.5/5 | Exceptional map design and assets. Ammo management. With sector lightning like that you dont need dynamic lightning. Map32 has great Metroidvania feel, meanwhile Map19 is linear and not done good enough with linedefs.
 ~~ancient aliens~~ | - | 3.5 | 5/5 | If you start to play defencivly - you die and it is hard, if you move - it is simplier. Insane graphics and architecture.
-~~valiant~~|4 | 4 |4.5/5| Nothing that outstanding visually compared to eviternity or ancient aliens (well map31 is like AA), but same complexity of architecture. Feels good due to custom weapons\enemies. 
-kama sutra |4
+~~valiant~~|4 | 4 |4.25/5| Nothing that outstanding visually compared to eviternity or ancient aliens (well map31 is like AA), but same complexity of architecture. Feels good due to custom weapons\enemies. Sadly not episodes are equally good.
+kama sutra |4 | 4 |4/5| Its like Requiem with difficulty of Hell Revealed, but done right and fun.
 alien vendetta |4
 speed of doom|5
 resurgence|5
