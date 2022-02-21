@@ -16,7 +16,7 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~Eviternity~~ | - | 3.5 | 4.5/5 | Exceptional map design and assets. Ammo management. With sector lightning like that you dont need dynamic lightning. Map32 has great Metroidvania feel, meanwhile Map19 is linear and not done good enough with linedefs.
 ~~ancient aliens~~ | - | 3.5 | 5/5 | If you start to play defencivly - you die and it is hard, if you move - it is simplier. Insane graphics and architecture.
 ~~valiant~~|4 | 4 |4.25/5| Nothing that outstanding visually compared to eviternity or ancient aliens (well map31 is like AA), but same complexity of architecture. Feels good due to custom weapons\enemies. Sadly not episodes are equally good.
-kama sutra |4 | 4 |4/5| Its like Requiem with difficulty of Hell Revealed, but done right and fun.
+kama sutra |4 | 4 |4/5| Its like Requiem with difficulty of Hell Revealed, but done right and fun. Start to become hard on map13.
 alien vendetta |4
 speed of doom|5
 resurgence|5
