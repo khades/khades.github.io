@@ -17,8 +17,8 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~ancient aliens~~ | - | 3.5 | 5/5 | If you start to play defencivly - you die and it is hard, if you move - it is simplier. Insane graphics and architecture.
 ~~valiant~~|4 | 4 |4.25/5| Nothing that outstanding visually compared to eviternity or ancient aliens (well map31 is like AA), but same complexity of architecture. Feels good due to custom weapons\enemies. Sadly not episodes are equally good.
 kama sutra |4 | 4 |4/5| Its like Requiem with difficulty of Hell Revealed, but done right and fun. Start to become hard on map13.
+speed of doom|4
 alien vendetta |4
-speed of doom|5
 resurgence|5
 deus vult II|5
 scythe II|5
