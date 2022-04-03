@@ -30,7 +30,7 @@ stardate 20X7|-|- | - |-
 
 Name | Announced Difficulty | Actual Difficulty | Rating | review
 -- | -- | -- | -- | --
-~~no rest for living~~ | - | 1.5 | 3.5/5 | Tad better than doom 2
+~~no rest for living~~ | - | 1.5 | 2.5/5 | Tad better than doom 2
 back to saturn x ep1|
 back to saturn x ep2|
 classic episodes|
