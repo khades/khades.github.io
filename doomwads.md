@@ -17,7 +17,7 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~Ancient Aliens~~ | - | 3.5 | 5/5 | If you start to play defencivly - you die and it is hard, if you move - it is simplier. Insane graphics and architecture.
 ~~Valiant~~|4 | 4 |3.5/5| Nothing that outstanding visually compared to eviternity or ancient aliens (well map31 is like AA), but same complexity of architecture. Feels good due to custom weapons\enemies. Sadly not episodes are equally good.
 ~~Kama Sutra~~ |4 | 4 |4/5| Its like Requiem with difficulty of Hell Revealed, but done right and fun. Start to become hard on map13. Starts to be REAL hard at map 23, and sadly loses some of polish. Worth playing. Classic design.
-~~Speed of Doom~~|4| 5 | 4.5/5 | Well i kinda get the idea of more modern map design, cause there's stark difference between SOD and kama sutra in textures and overall layout, but NOT in encounters. SOD is like just more polished Kama Sutra. It gets to level of Hell Revealed hardness, but difficulty ramp is GREAT. Even tho i have hard times with some maps (like map27 that gets too stressful for me), there's satisfaction of finishing level, that thing that was absent in most hard Hell Revealed maps.
+~~Speed of Doom~~|4| 5 | 4/5 | Well i kinda get the idea of more modern map design, cause there's stark difference between SOD and kama sutra in textures and overall layout, but NOT in encounters. SOD is like just more polished Kama Sutra. It gets to level of Hell Revealed hardness, but difficulty ramp is GREAT. Even tho i have hard times with some maps (like map27 that gets too stressful for me), there's satisfaction of finishing level, that thing that was absent in most hard Hell Revealed maps.
 Swim With The Whales| -
 Alien Vendetta |4
 Resurgence|5
