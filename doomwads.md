@@ -6,7 +6,7 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~Ultimate Doom~~ | 1 | 1 | 2.5/5 | Good wad with proper structure due to episodes.
 ~~Doom 2~~ | 1 |1 | 2.5/5 | Uneven quality.
 ~~Sigil~~ | - | 1.5 |3.5/5| NICE, great small levels, outstanding architecture and visuals.
-~~Evilution~~ | 2 | 1.5 | 0/5 | Bad encounters, maps are too large and uneven conventions (buttons etc). Some glimpse of fun, but overall not worth playing.
+~~TNT: Evilution~~ | 2 | 1.5 | 0/5 | Bad encounters, maps are too large and uneven conventions (buttons etc). Some glimpse of fun, but overall not worth playing.
 ~~Memento Mori I~~ | 2 | 1.5 | 3/5 | Some problems with linedefs but progression and encounters are AWESOME, proper build-up from small maps to BIG maps, big and nice packed maps.
 ~~Requiem~~ |2| 2 |0.5/5| Gimmicky map design that doesnt work that good a lot of times. Harder due to ammo management, really uneven on map difficulty and sizes, does not feel coherent. More like a swan song. Does not worth playing.
 ~~Memento Mori II~~|2| 2 |3/5| Almost same as MM1, but slightly more harder and slighly less ammo, map12 is VERY sigil-like.
@@ -32,27 +32,16 @@ Italo Doom |
 
 Name | Announced Difficulty | Actual Difficulty | Rating | review
 -- | -- | -- | -- | --
-~~no rest for living~~ | - | 1.5 | 2.5/5 | Tad better than doom 2
+~~No Rest For Living~~ | - | 1.5 | 2.5/5 | Tad better than doom 2
 Back to saturn x ep1|
 Back to saturn x ep2|
-Classic Episodes|
 Going Down|
 Heartland|
 Vanguard|
 REKKR|
-Doom Zero|
-Double Impact|
-No End In Sight|
-Syringe|
-Deathless|
-Earthless: Prelude|
 Sunder|
-plutonia 2|
-plutonia revisited|
-TNT revilution|
-THT Trenody |
-Icarus|
-Eternal Doom|
-Daedalus| 
+Plutonia 2|
+Plutonia Revisited|
+TNT: Revilution|
 Struggle - Antaresian Legacy|
 Antaresian Reliquary|
