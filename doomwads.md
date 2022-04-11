@@ -21,8 +21,11 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 Alien Vendetta |4
 Resurgence|5
 Scythe II|5
+Stardate 20x6| -
 Deus Vult II|5
 Sunlust|6
+Stardate 20X7|-
+Italo Doom |-
 
 # Just sidetracking
 
@@ -42,6 +45,4 @@ TNT: Revilution|
 Struggle - Antaresian Legacy|
 Antaresian Reliquary|
 Swim With The Whales| -
-Stardate 20x6| -
-Stardate 20X7|-
-Italo Doom |-
+
