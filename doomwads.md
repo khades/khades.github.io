@@ -24,8 +24,6 @@ Scythe II|5
 Stardate 20x6| -
 Deus Vult II|5
 Sunlust|6
-Stardate 20X7|-
-Italo Doom |-
 
 # Just sidetracking
 
@@ -45,4 +43,5 @@ TNT: Revilution|
 Struggle - Antaresian Legacy|
 Antaresian Reliquary|
 Swim With The Whales| - | | | IT WAS BAD IDEA TO START PLAYING IT AFTER SPEED OF DOOM, PAAAAIN
-
+Stardate 20X7|-
+Italo Doom |-
