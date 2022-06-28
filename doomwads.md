@@ -29,21 +29,21 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 -- | -- | -- | -- | --
 ~~No Rest For Living~~ | - | 1.5 | 2.5/5 | Tad better than doom 2
 ~~Lunatic~~ | - | 1.5 | 3.5/5 | Tad worse than Vanguard, but same themes of lunar surface, still great. Really easy.
-Vanguard|
-Back to saturn x ep1|
-Back to saturn x ep2|
-Going Down|
-Heartland|
-REKKR|
-Sunder|
-Plutonia 2|
-Plutonia Revisited|
-TNT: Revilution|
-Struggle - Antaresian Legacy|
-Antaresian Reliquary|
+Vanguard| -- | -- | -- | --
+Back to saturn x ep1| -- | -- | -- | --
+Back to saturn x ep2| -- | -- | -- | --
+Going Down| -- | -- | -- | --
+Heartland| -- | -- | -- | --
+REKKR| -- | -- | -- | --
+Sunder| -- | -- | -- | --
+Plutonia 2| -- | -- | -- | --
+Plutonia Revisited| -- | -- | -- | --
+TNT: Revilution| -- | -- | -- | --
+Struggle - Antaresian Legacy| -- | -- | -- | --
+Antaresian Reliquary| -- | -- | -- | --
 Swim With The Whales| - | | | IT WAS BAD IDEA TO START PLAYING IT AFTER SPEED OF DOOM, PAAAAIN
-Stardate 20x6| -
-Stardate 20X7|-
-Italo Doom |-
-Auger: Zenith
-Deus Vult II|5
+Stardate 20x6| -- | -- | -- | --
+Stardate 20X7| -- | -- | -- | --
+Italo Doom | -- | -- | -- | --
+Auger: Zenith -- | -- | -- | --
+Deus Vult II|5| -- | -- | --
