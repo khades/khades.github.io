@@ -21,8 +21,6 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~Alien Vendetta~~ |4 | 4.5 | 3/5 | Should've played it right before Kama sutra?  Classic design, quite obvious it was created when doom was played on 320x200 resolution. Less details than KS, but more solid setting. Encounters are not as good as in Kama Sutra or Speed of Doom. From level 20 it gets kinda boring and non-rewarding (unlike speed of doom and kama sutra).
 Resurgence|5
 Scythe II|5
-Stardate 20x6| -
-Deus Vult II|5
 Sunlust|6
 
 # Just sidetracking
@@ -44,6 +42,8 @@ TNT: Revilution|
 Struggle - Antaresian Legacy|
 Antaresian Reliquary|
 Swim With The Whales| - | | | IT WAS BAD IDEA TO START PLAYING IT AFTER SPEED OF DOOM, PAAAAIN
+Stardate 20x6| -
 Stardate 20X7|-
 Italo Doom |-
 Auger: Zenith
+Deus Vult II|5
