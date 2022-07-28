@@ -77,16 +77,16 @@ The following process outlines the basic mechanics of all dice rolling in Raw Si
 
 ### Completing a task
 
-1. Determine Difficulty: The Game Master picks which attribute the activity falls under and its Difficulty. To succeed the player must roll a total equal or higher than the target number.
+1. **Determine Difficulty**: The Game Master picks which attribute the activity falls under and its Difficulty. To succeed the player must roll a total equal or higher than the target number.
    - This target number can either be a set number (as noted in the Target Difficulties section) or a number noted on an opponent's character sheet (such as their defence or resistance to wounds).
-2. Build a Dice Pool. A dice pool is made up of a number of dice equal to the appropriate Attributes plus:
+2. **Build a Dice Pool**: A dice pool is made up of a number of dice equal to the appropriate Attributes plus:
    - An additional die for each applicable [Tag](#tags) the character has.
    - An additional for each point of [Stress](#stress-points) the play which to gain.
    - Any bonuses from [Equipment](#equipment--gear).
    - An additional die for each other character supporting the task attempt.
-3. Identify the Wild Die, one of the dice in the pool is assigned the "Wild Die" (and is usually a different colour from the rest for ease of identification).
-4. Roll the Dice. The Dice Pool is rolled, and the total of all dice are added together (remembering the Wild Die explodes).
-5. Determine Success. Compare the total rolled versus the Target Number. If this total equal or exceed the Target Number, then the task is a success. If not, the Task is a failure.
+3. **Identify the Wild Die**: One of the dice in the pool is assigned the "Wild Die" (and is usually a different colour from the rest for ease of identification).
+4. **Roll the Dice**: The Dice Pool is rolled, and the total of all dice are added together (remembering the Wild Die explodes).
+5. **Determine Success**: Compare the total rolled versus the Target Number. If this total equal or exceed the Target Number, then the task is a success. If not, the Task is a failure.
 
 ## Task difficulties
 
@@ -122,8 +122,7 @@ To create a character the player should complete the following steps.
 2. For each Attribute select a number of Tags.
 3. Select a character Perk
 4. Determine a character's Complications.
-5. Note the character's Defences, Stress Threshold
-   and Fate.
+5. Note the character's Defences, Stress Threshold and Fate.
 6. Select any equipment.
 
 ## Attributes
@@ -137,7 +136,7 @@ Each Character has five attributes which measure the basic physical and mental a
 - **Charm** represents charisma, presence and natural leadership ability.
 - **Will** represents mental resolve, and mental fortitude.
 
-Attribute dice may be split into "pips", with each die is equal to three pips. An Attribute may have dice only (no bonus pips), +1 or +2. Going to "+3" advances the die code to the next largest die.
+Attribute dice may be split into "pips", with each die is equal to three pips. An Attribute may have dice only (no bonus pips), +1 or +2. Going to "+3" advances the die code to the next largest die (you get +1D instead of +3 pips).
 
 ## Tags
 
@@ -396,7 +395,7 @@ The caster creates a barrier to protect them or their allies.
 # Mechanics
 
 The following expands on the base process detailed
-in the **Completing a Task** on page 2.
+in the [**Completing a Task**](#comleting-tasks).
 
 ## Modifiers
 
