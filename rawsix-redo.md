@@ -350,7 +350,7 @@ Again the list of powers or abilities a character might have depends greatly on 
 
 ## Using a power or ability
 
-An ability is usually requires a Task roll based on the powers" **Controlling Attribute** to be activated.
+An ability is usually requires a Task roll based on the powers' **Controlling Attribute** to be activated.
 
 ## "Always on" abilities
 
