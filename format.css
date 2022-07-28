@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    line-height: 0.95;
+    font-family: Lora;
+    font-weight: 200;
+    font-size: 16px;
+}
+
+@page :first {
+    font-size: 40px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    page-break-before: always;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+tr {
+    background-color: #fff;
+    border-top: 1px solid black;
+}
+
+th,
+td {
+    padding: 6px 13px;
+    border: 1px solid black;
+}
+
+table {
+    display: block;
+    width: 100%;
+    overflow: auto;
+    margin-top: 0;
+    margin-bottom: 16px;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+tr {
+    background-color: #fff;
+    border-top: 1px solid black;
+}
+
+#sample-weapons-armour,
+#example-power-task-modifiers,
+#task-difficulties,
+#ranged-weapons,
+#healing,
+#equipment-gear,
+#actions,
+#injuries-table,
+#example-of-conflict,
+#healing, #setting-specific-tags {
+    page-break-before: always;
+
+}
+
+/* pandoc --pdf-engine=wkhtmltopdf --columns 100 -V margin-top=6 -V margin-left=6 -V 
+margin-right=6 -V margin-bottom=6 --css .\format.css -V papersize=a5 --top-level-division=chapter rawsix-redo.md -o rawsix-redo.pdf */
