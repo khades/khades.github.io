@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  line-height:0.95;
+  line-height: 0.95;
   font-family: Lora;
   font-size: 17px;
 }
@@ -16,6 +16,9 @@ body {
 
 h1 {
   page-break-before: always;
+}
+#raw-six {
+  page-break-before: unset;
 }
 
 a {
@@ -34,7 +37,8 @@ td {
   border: 1px solid black;
 }
 
-b,strong {
+b,
+strong {
   font-weight: 600;
 }
 
@@ -67,33 +71,41 @@ tr {
 #fly,
 #effects-of-taking-wounds,
 #exceptional-success,
-#example-complications,
-#why-raw-six-exists{
+#example-complications {
   page-break-before: always;
 }
-h1, h2, h3, h4, p {
-    margin: 12px 0;
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 12px 0;
 }
-h2, h3, h4 {
-    font-weight: 600;
+h2,
+h3,
+h4 {
+  font-weight: 600;
 }
 h1 {
-    font-weight: 600;
+  font-weight: 600;
 }
 
-ul, ol {
-    list-style-position: inside;
-    margin: 8px 0;
-    padding-left: 0px;
+ul,
+ol {
+  list-style-position: inside;
+  margin: 8px 0;
+  padding-left: 0px;
 }
-li + li, ul ul {  
-    margin-top: 4px;
+li + li,
+ul ul {
+  margin-top: 4px;
 }
-ul ul, ol ul {  
-    padding-left: 20px;
+ul ul,
+ol ul {
+  padding-left: 20px;
 }
 ul li {
-    list-style: square inside;
-
+  list-style: square inside;
 }
+/*  pandoc -s -c format.css  rawsix-redo.md -o rawsix-redo.html && wkhtmltopdf -B 6 -L 6 -R 6 -T 6 --enable-local-file-access -s a5 ./rawsix-redo.html a.pdf */
 /* pandoc --pdf-engine=wkhtmltopdf --columns 100 -V margin-top=6 -V margin-left=6 -V margin-right=6 -V margin-bottom=6 --css .\format.css -V papersize=a5 --top-level-division=chapter rawsix-redo.md -o rawsix-redo.pdf */

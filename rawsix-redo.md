@@ -11,9 +11,38 @@ MARCUS D. BONE
 
 Raw Six is a member of the OpenD6 family, specifically following the Open D6 OGL and owes much to the Mini Six game published by AntiPaladin Games
 
+### Version change notes
+
+#### Version 1.0 - DEC 2020
+
+- Initial release developed for running Summerland at a local convention.
+
+#### Version 1.1 - FEB 2021
+
+- Removed reference to D6 Legend and other various hangovers from the copy & paste out of Simple Six.
+- Added a Table of Contents page and an introduction as to why this set of mechanics exists.
+- Reworded dice rolling formula based on feedback from Michael W.
+- Provided some examples of Attribute Tags and how they are used.
+- Added Exceptional Success rules.
+- Added some Non-Combat action options.
+- Added detail to Recovering Stress
+- Added in NPC Wounds and example.
+
+#### Version 1.2 - AUGUST 2021
+
+- Fixed up various typos and grammatical errors.
+- Added an Example of Play and Example of Conflict
+- Added Example Tags
+- Added Example Perks and Complications
+- Added rules for gaining benefits of playing character over multiple scenarios
+- Added a section for Powers and special Abilities.
+- Added a short section on how or when Tags can be invoked.
+- Added a sixth Attribute (Charm) to separate charisma from willpower type abilities.
+- Added rules for Mental Toughness and defence, allowing to account for horror or psychological effects.
+- Added the sample setting of Jericho.
+
 # Contents
 
-- [Contents](#contents)
 - [The Basics](#the-basics)
   - [Conventions](#conventions)
   - [Rolling dice](#rolling-dice)
@@ -54,7 +83,6 @@ Raw Six is a member of the OpenD6 family, specifically following the Open D6 OGL
   - [Non-player characters](#non-player-characters-1)
   - [Adventure Seeds](#adventure-seeds)
 - [Addendum](#addendum)
-  - [Version change notes](#version-change-notes)
   - [Why Raw Six exist](#why-raw-six-exists)
   - [OPEN GAME LICENSE Version 1.0a](#open-game-license-version-10a)
 
@@ -394,8 +422,7 @@ The caster creates a barrier to protect them or their allies.
 
 # Mechanics
 
-The following expands on the base process detailed
-in the [**Completing a Task**](#comleting-tasks).
+The following expands on the base process detailed in the [**Completing a Task**](#comleting-tasks).
 
 ## Modifiers
 
@@ -738,36 +765,6 @@ The following adventure ideas couple used in the Jericho setting.
 - **Mr Holmes**: Holmes is a corporate who looks and acts a bit too much like an ex-Terran official who is wanted … well by everyone. The characters need to locate their target and ensure they have the right man.
 
 # Addendum
-
-## Version change notes
-
-### Version 1.0 - DEC 2020
-
-- Initial release developed for running Summerland at a local convention.
-
-### Version 1.1 - FEB 2021
-
-- Removed reference to D6 Legend and other various hangovers from the copy & paste out of Simple Six.
-- Added a Table of Contents page and an introduction as to why this set of mechanics exists.
-- Reworded dice rolling formula based on feedback from Michael W.
-- Provided some examples of Attribute Tags and how they are used.
-- Added Exceptional Success rules.
-- Added some Non-Combat action options.
-- Added detail to Recovering Stress
-- Added in NPC Wounds and example.
-
-### Version 1.2 - AUGUST 2021
-
-- Fixed up various typos and grammatical errors.
-- Added an Example of Play and Example of Conflict
-- Added Example Tags
-- Added Example Perks and Complications
-- Added rules for gaining benefits of playing character over multiple scenarios
-- Added a section for Powers and special Abilities.
-- Added a short section on how or when Tags can be invoked.
-- Added a sixth Attribute (Charm) to separate charisma from willpower type abilities.
-- Added rules for Mental Toughness and defence, allowing to account for horror or psychological effects.
-- Added the sample setting of Jericho.
 
 ## Why Raw Six Exists
 
