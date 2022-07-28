@@ -128,7 +128,7 @@ To create a character the player should complete the following steps.
 
 ## Attributes
 
-Each Character has five attributes which measure the basic physical and mental abilities that are common to every creature. Characters distribute 15 Attribute Dice among these attributes. These are normally rated on a scale of 1D to 4D, although some factors may changethis range.
+Each Character has five attributes which measure the basic physical and mental abilities that are common to every creature. Characters distribute 15 Attribute Dice among these attributes. These are normally rated on a scale of 1D to 4D, although some factors may change this range.
 
 - **Physique** represents physical strength and toughness.
 - **Co-ordination** represents aim and manual dexterity
