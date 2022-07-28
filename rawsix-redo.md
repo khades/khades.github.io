@@ -354,10 +354,9 @@ An ability is usually requires a Task roll based on the powers' **Controlling At
 
 ## "Always on" abilities
 
-Some abilities may be deemed to be "always on" (such as
-a superhero with the ability to fly for example). For each "always on" a character has their Power Point pool is permanently reduced by 1.
+Some abilities may be deemed to be "always on" (such as a superhero with the ability to fly for example). For each "always on" a character has their Stress Point pool is permanently reduced by 1.
 
-For example, Thomas' Post-Apocalypse Mutant character has 3 Power Points (equal to his Will Attribute), and as one of his powers decides to take the Telepathy ability. As this ability is deemed to be "always on" it costs 1 permanent Power Point, which reduces his Power Point Pool for his other abilities.
+For example, Thomas' Post-Apocalypse Mutant character has 4 Stress Points (equal to his **Will** plus **Physique**), and as one of his powers decides to take the Telepathy ability. As this ability is deemed to be "always on" it costs 1 permanent Stress Point, which reduces his Stress Point Pool for his other abilities.
 
 ## Example power task modifiers
 
@@ -446,8 +445,8 @@ Range in Raw Six is generally abstract with an object or target said to be at on
 
 The following modifiers reflect an increase or decrease in the character's chance of success in a task.
 
-| Type                    | Modifier                                               |
-| ----------------------- | ------------------------------------------------------ |
+| Type                | Modifier                                               |
+| ------------------- | ------------------------------------------------------ |
 | Ganging-up          | +1D for each ally currently attacking an nemy in melee |
 | Aiming              | +2D per action spent aiming at a target                |
 | Wounded             | See [Wounding a Target](#wounding-a-target).           |
@@ -617,8 +616,7 @@ The following is an example of how a round of conflict can occur in Raw Six:
 
 *As it is the beginning of a round, both sides roll their Initiative rolls. The Guard has 2D+1 for his Wits, while Heldaw has 3D. Unfortunately for Jon he rolls only 6 on his dice, while the Game Master rolls 11.*
 
-*The players then declare their character's actions, and given that Jon lost this rounds initiative, he must declare first. Thinking on it for a moment, he states that Heldaw will attempt to strike the guard down, while the Game Master says that his guard will also attack the intruder. As these actions resolve themselves in a pretty straight
-forward manner, the Game Master and Jon agree just to move into the Act phase of the ound.*
+*The players then declare their character's actions, and given that Jon lost this rounds initiative, he must declare first. Thinking on it for a moment, he states that Heldaw will attempt to strike the guard down, while the Game Master says that his guard will also attack the intruder. As these actions resolve themselves in a pretty straight forward manner, the Game Master and Jon agree just to move into the Act phase of the ound.*
 
 *The Guard attacks first and determines their dice pool to be 3D+1 (the NPCs Physique dice of 2D+1 and adding +1D for the Guardsman Tag). The Game Master rolls the dice and gets a total of 15. As Heldaw's Dodge Defence is only 11, the adventurer is hit*
 
