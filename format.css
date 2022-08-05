@@ -1,9 +1,9 @@
 body {
   margin: 0;
   padding: 0;
-  line-height: 0.95;
+  line-height: 1.1;
   font-family: Lora;
-  font-size: 17px;
+  font-size: 18px;
 }
 
 @page :first {
@@ -17,7 +17,7 @@ body {
 h1 {
   page-break-before: always;
 }
-#raw-six {
+#raw-six, #medium-raw-six {
   page-break-before: unset;
 }
 
@@ -61,17 +61,13 @@ tr {
 #example-power-task-modifiers,
 #task-difficulties,
 #ranged-weapons,
-#healing,
 #equipment-gear,
 #actions,
-#injuries-table,
 #example-of-conflict,
-#healing,
 #setting-specific-tags,
-#fly,
-#effects-of-taking-wounds,
-#exceptional-success,
-#example-complications {
+#shield,
+#scratches,
+#critical-failures, #tags, #perks-complications, #static-defences {
   page-break-before: always;
 }
 h1,

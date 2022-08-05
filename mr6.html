@@ -1,0 +1,901 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>mr6</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="format.css" />
+</head>
+<body>
+<h1 id="medium-raw-six">Medium Raw Six</h1>
+<p>Medium Raw Six (or MR6) is extension of Raw Six, focused on character progression between games, while having simple Open D6 based mechanics.</p>
+<h2 id="conventions">Conventions</h2>
+<ul>
+<li>MR6 uses only regular six-sided dice, with each player needing about 5 or 6 with one of a different colour or size to represent the “Wild Die”.</li>
+<li>For ease of management, MR6 use the following convention when noting numbers - XD+Y. Where X represents how many dice (D) are rolled, and Y notes if anything additional (pips) should be added to the total rolled on the dice.
+<ul>
+<li>For instance, 3D+2 means that three dice are rolled and added together, and then two more is added to that total.</li>
+</ul></li>
+<li>The Wild Die “explodes” when a 6 rolled. Not only does this add 6 to the total but it can be rolled and added again. A Wild Die continues to explode until no further 6s are rolled!</li>
+</ul>
+<h2 id="rolling-dice">Rolling dice</h2>
+<p>The following process outlines the basic mechanics of all dice rolling in MR6.</p>
+<h3 id="completing-a-task">Completing a task</h3>
+<ol type="1">
+<li><strong>Determine Difficulty</strong>: The Game Master picks which attribute the activity falls under and its Difficulty. To succeed the player must roll a total equal or higher than the target number.
+<ul>
+<li>This target number can either be a set number (as noted in the Target Difficulties section) or a number noted on an opponent’s character sheet (such as their defence or resistance to wounds).</li>
+</ul></li>
+<li><strong>Build a Dice Pool</strong>: A dice pool is made up of a number of dice equal to the appropriate Attributes plus:
+<ul>
+<li>An additional die for each applicable <a href="#tags">Tag</a> the character has.</li>
+<li>An additional for each point of <a href="#stress-points">Stress</a> the play which to gain.</li>
+<li>Any bonuses from <a href="#equipment--gear">Equipment</a>.</li>
+<li>An additional die for each other character supporting the task attempt.</li>
+</ul></li>
+<li><strong>Identify the Wild Die</strong>: One of the dice in the pool is assigned the “Wild Die” (and is usually a different colour from the rest for ease of identification).</li>
+<li><strong>Roll the Dice</strong>: The Dice Pool is rolled, and the total of all dice are added together (remembering the Wild Die explodes).</li>
+<li><strong>Determine Success</strong>: Compare the total rolled versus the Target Number. If this total equal or exceed the Target Number, then the task is a success. If not, the Task is a failure.</li>
+</ol>
+<h2 id="task-difficulties">Task difficulties</h2>
+<p>As noted above the total needed to succeed on a roll is set as a Difficulty. In most circumstances this is a set number (as noted in the table below), although for some tasks this can be based on a characters (or non-player character’s) <a href="#static-defences">Defences</a>.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Difficulty</th>
+<th>Target Number</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Simple</td>
+<td>7</td>
+</tr>
+<tr class="even">
+<td>Average</td>
+<td>9</td>
+</tr>
+<tr class="odd">
+<td>Hard</td>
+<td>11</td>
+</tr>
+<tr class="even">
+<td>Very Hard</td>
+<td>13</td>
+</tr>
+<tr class="odd">
+<td>Formidable</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
+<h2 id="example-of-mr6-tasks-mechanics">Example of MR6 tasks mechanics</h2>
+<p>The following is an example of how the core dice rolling mechanics works when attempting tasks in MR6:</p>
+<p><em>Jon’s character Heldaw needs to attempt to climb a wall to sneak into a bandit’s castle. The Game Master determines that this is a <strong>Hard</strong> task to complete, which requires that Jon rolls 11 or more on his Task roll and will utilise Physique as the Attribute (in which Heldaw has 2D+2).</em></p>
+<p><em>To build his Dice Pool, Jon, grabs 2D (his Physique attribute dice) and puts to the GM that Heldaw should add a die for his Tag “Tough”. The GM disagrees however, and so instead Heldaw burns a Stress point (representing him putting extra kevels of concentration and effort into the task) to gain an extra die, giving him a total of 3D+2.</em></p>
+<p><em>Jon then decides that his red die (the others are green) will be his Wild Die and rolls all the dice together. This results in the numbers, 1, 2 and 6 (on the Wild Die) coming up. Adding these three together and adding the plus two, Jon can see he has the 11 required (1+2+6+2) to succeed in the task.</em></p>
+<p><em>However, for fun, as the Wild Die came up a 6, Jon rolls it again getting a 5. This means that Jon rolled a final total of 16, much more than was needed. As a result, with barely a grunt, Heldaw scales the walls of the keep, and is soon in the confines of the fort…</em></p>
+<h1 id="creating-character">Creating character</h1>
+<p>Every player has a character. All characters are defined with the four aspects: Attributes, Tags, Perks and Complications. To differentiate the Player Characters from the individuals and opponents they will encounter in play, they also have Fate Points and a Stress Pool.</p>
+<p>Every character in game allocate set amount D according to character backstory and nature and describes its overall life experience. Think of them as of “Levels” that character have.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Dice Amount</th>
+<th>Life Experience</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>11</td>
+<td>Common man</td>
+</tr>
+<tr class="even">
+<td>13</td>
+<td>Beginner Hero</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>Experienced Hero</td>
+</tr>
+<tr class="even">
+<td>17</td>
+<td>World-class Hero</td>
+</tr>
+<tr class="odd">
+<td>19</td>
+<td>God-like Hero</td>
+</tr>
+</tbody>
+</table>
+<p>While creating new character it is recommended to use 13D (Beginner hero).</p>
+<p>To create a character the player should complete the following steps.</p>
+<ol type="1">
+<li>Distribute set amount of D between their six Attributes.</li>
+<li>For each Attribute select a number of Tags.</li>
+<li>Select a character Perk</li>
+<li>Determine a character’s Complications.</li>
+<li>Note the character’s Defences, Stress Threshold and Fate.</li>
+<li>Select any equipment.</li>
+</ol>
+<h2 id="attributes">Attributes</h2>
+<p>Each Character has six attributes which measure the basic physical and mental abilities that are common to every creature. Characters distribute set amount of Attribute Dice among these attributes. These are normally rated on a scale of 1D to 4D, although some factors may change this range.</p>
+<ul>
+<li><strong>Physique</strong> represents physical strength and toughness.</li>
+<li><strong>Co-ordination</strong> represents aim and manual dexterity</li>
+<li><strong>Agility</strong> represents speed and responsiveness.</li>
+<li><strong>Wit</strong> represents mental creativity and intelligence.</li>
+<li><strong>Charm</strong> represents charisma, presence and natural leadership ability.</li>
+<li><strong>Will</strong> represents mental resolve, and mental fortitude.</li>
+</ul>
+<p>Attribute dice may be split into “pips”, with each die is equal to three pips. An Attribute may have dice only (no bonus pips), +1 or +2. Going to “+3” advances the die code to the next largest die (you get +1D instead of +3 pips).</p>
+<h2 id="tags">Tags</h2>
+<p>Tags represent the unique skills, knowledge, and training of the character. The Player should:</p>
+<ul>
+<li>Select 1 Tag for their single highest Attribute.</li>
+<li>Select 1 Tag for 2 other Attributes. The only exception being if they only have 1D (with or without pips) assigned, in which case that Attribute does not get a Tag.</li>
+</ul>
+<p>Tags should be single word descriptive words that reflect the characters abilities, skills, nowledge, or background.</p>
+<p>The usefulness of Tags is usually determined by the setting in which the session is being played (for example creating a Tag called “Astronaut” might be redundant in a traditional fantasy game setting).</p>
+<p>While no limiters are placed one what can be used as a Tag, general advice is that they fall under a one of the following categories.</p>
+<ul>
+<li><strong>A Knowledge or Education</strong>: A training or set of skills a character might have acquired prior to play. This could be generic - doctor, mechanic, pilot - but could also be more specific such as Professor of Anthropology, 2008 Winner of Mastermind UK.</li>
+<li><strong>A Unique Ability</strong>: Something that the character has naturally manifested. This could be some physical or mental trait - Eagled Eyed, Fitness Freak, Brawler - or something more esoteric - Spell Caster, Sixth Sense, Disarming Voice.</li>
+</ul>
+<p>Players should work with the Game Master to determine their final Tags.</p>
+<h3 id="example-tags">Example tags</h3>
+<p>The following provides a few example Tags and how they might be used during play. For each two alternate names or activities is noted, although it is reasonable to think that each would allow and limit</p>
+<ul>
+<li><strong>Mechanic/Engineer</strong>: The character is trained as mechanic. They invoke this Tag; when building or repairing engines or machines, attempting to understand how a device works, or talking about technology, etc.</li>
+<li><strong>Singing Voice/Actor</strong>: The character has the voice of an angel. They invoke this Tag; when involved in performing arts, to assist in convincing others, or discussing music.</li>
+<li><strong>Endurance/Outdoorsman</strong>: The character has impressive stamina. This can be invoked when attempting to survive in harsh conditions, or is undertaking periods of physical stress - such as running, going a long time without sleep, etc.</li>
+<li><strong>Marksman/Soldier</strong>: The character is a crack shot. They invoke this Tag to; increase their Dice Pool in a ranged conflict task, understand weaponry or even work out the best location to ambush a target.</li>
+<li><strong>Observant/Scout</strong>: The character is keen eyed and alert. This Tag can be invoked to gain when making awareness rolls, or recalling a specific event or activity</li>
+</ul>
+<h2 id="perks-complications">Perks &amp; complications</h2>
+<p>Perks are benefits innate to the character. This could represent their race in the setting, special skill, or talent. Each character has 1 free Perk to select. Perks should bend the core mechanics without breaking them (i.e. might provide the character with an additional Fate Point, or allow them to act as if one of their Static Defences is one D higher, etc.)</p>
+<p>Complications represent the hindrances or difficulties in the character’s life. A character may choose up to 2 Complications during character creation, these represent limitations or restrictions on the character and are used as a roleplaying aid. When a character acts based on their complication or are compelled to by the Game Master, they receive a temporary Fate Point.</p>
+<h3 id="example-perks">Example perks</h3>
+<p>The following provides some generic Perks players might want to assign to their characters. Often a setting will provide a selection of Perks used to reflect the style of game play in that world.</p>
+<ul>
+<li><strong>Bag of Junk</strong>: Over the months you’ve collected a variety of odds and ends in a carryall. For the cost of one (1) Fate you can find something important within.</li>
+<li><strong>Martial Artist</strong>: You have trained as a martial artist and known how to defend yourself. Gain +1D for melee damage and +3 Block.</li>
+<li><strong>Combat Reflexes</strong>: You are always alert and ready for action. You don’t need to roll for Initiative in the first round of any conflict; you always go first. In subsequent rounds you gain +1D to Wits when rolling for Initiative.</li>
+<li><strong>Lucky</strong>: To date you’ve led a charmed life, although you never know how long this is going to last. You start each game session with one (1) more Fate.</li>
+</ul>
+<h3 id="example-complications">Example complications</h3>
+<p>Similarly, below is listed a number of sample complications players can use as examples to create their own.</p>
+<ul>
+<li><strong>Age</strong>: You are either every young or elderly and as such many people often ignore you. If you decide that this contributes to a scene, regain one (1) Fate.</li>
+<li><strong>Sense of Honour</strong>: Despite your desire to not get involved in other people’s problems, you often struggle to look away in the face of injustice. If you decide that this contributes to a scene, regain one (1) Fate.</li>
+<li><strong>Weak Willed</strong>: For whatever reason you find yourself falling in line with others even when you know you should make up your own mind! If you decide that this contributes to a scene, regain one (1) Fate.</li>
+<li><strong>Kleptomaniac</strong>: You don’t know why, but “things” of all sorts seem attracted to you. Of course taking other people’s things without asking often gets you in hot water. If you decide that this contributes to a scene, regain one (1) Fate.</li>
+</ul>
+<h2 id="static-defences">Static defences</h2>
+<p>Each character has three static defence numbers:</p>
+<ul>
+<li><strong>Block</strong> represents the character’s ability to defend themselves in melee. This is calculated by multiplying their <strong>Co-ordination</strong> by 2 and adding any pips.</li>
+<li><strong>Dodge</strong> represents their ability to avoid ranged or melee attacks. This is calculated by multiplying their <strong>Agility</strong> D by 3 and adding any pips.</li>
+<li><strong>Toughness</strong> represents how resilient they are to wounds. This is calculated by multiplying their <strong>Physique</strong> by 3 and adding any pips.</li>
+<li><strong>Mental Fortitude</strong> represents how resistant the character is to otherworldly or psychological effects. This is calculated by multiplying their <strong>Will</strong> by 3 and adding any pips.</li>
+</ul>
+<h2 id="stress-threshold">Stress threshold</h2>
+<p>Stress represents mental damage taken by the character either through encounters or their actions. The character’s Stress Threshold is equal to their <strong>Will</strong> plus <strong>Physique</strong> dice (ignoring any pips) expressed as a number.</p>
+<p>Additionally, Stress can be gained to allocate additional dice (at a rate of 1D per point of Stress) when attempting a Task. Note that characters taking enough Stress to reach their Stress Threshold may be seriously impaired.</p>
+<h2 id="fate-points">Fate points</h2>
+<p>Each character starts each game session with 3 Fate Points. These are used to represent the special nature of player characters. Fate points can be used to:</p>
+<ul>
+<li>Reroll any number of dice non-Wild Dice in a task</li>
+<li>Remove one (1) level of Wounds immediately after it is taken</li>
+<li>Remove three (3) stress points after a short rest.</li>
+</ul>
+<p>Fate can be gained by:</p>
+<ul>
+<li>Invoking a Complication</li>
+<li>As the result of good roleplaying</li>
+</ul>
+<h2 id="equipment-gear">Equipment &amp; gear</h2>
+<p>Equipment comes in a number of forms. In general, it either:</p>
+<ul>
+<li>Allows a character to undertake an action (i.e. lock picks to unlock a door). In this case, the task could not be attempted if the gear wasn’t available.</li>
+<li>Provides a benefit to the character in their task (i.e. undertaking an operation in a well-equipped surgery). Generally, this will provide an additional Die (or 2) to the character when they attempt the task at hand.</li>
+<li>Provides specific statistics or mechanics that detail a particular rule in the game. For example, weapons are used to define damage and effects of hitting with a weapon, while armour increases a character’s Toughness.</li>
+</ul>
+<h3 id="weapons-armour">Weapons &amp; armour</h3>
+<p>All weapons and armour have a number of details and statistics that that used to determine how they function and how effective they are (see <a href="#sample-weapons--armour">Sample weapons &amp; armour</a>).</p>
+<p>The following table summarises how these specific rules for weapons and armour is utilised.</p>
+<table>
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 90%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Statistic</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Damage</td>
+<td>This is the number of Base Damage dice rolled on a successful hit to calculate the weapons effect.</td>
+</tr>
+<tr class="even">
+<td>Penetration (Pen)</td>
+<td>The effectiveness of the weapon against armour. The target’s Armour Rating (AV) - if they are wearing any - is reduced by this number when successfully hit.</td>
+</tr>
+<tr class="odd">
+<td>Range</td>
+<td>Range in Yards before the Range modifier is applied. A weapon can effectively fire 4 times this range, but for each range step the Range modifier is applied.</td>
+</tr>
+<tr class="even">
+<td>Armour Rating (AV)</td>
+<td>The effectiveness of the armour. This isadded to the characters base Toughness.</td>
+</tr>
+<tr class="odd">
+<td>Era</td>
+<td>A note on what period the weapon or armour comes from. All armour has its armour rating (AV) halved (round down) vs weapons from a later era (i.e. verse a pistol Plate is AV 1).</td>
+</tr>
+<tr class="even">
+<td>Notes</td>
+<td>Any additional information or special rules for the weapon or armour.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="sample-weapons-armour">Sample weapons &amp; armour</h2>
+<h3 id="melee-weapons">Melee weapons</h3>
+<table>
+<colgroup>
+<col style="width: 24%" />
+<col style="width: 12%" />
+<col style="width: 3%" />
+<col style="width: 59%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Weapon</th>
+<th>Damage</th>
+<th>Pen</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Axe</td>
+<td>Physique+3D</td>
+<td>1</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Club</td>
+<td>Physique+2D</td>
+<td>0</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Blackjack</td>
+<td>Physique</td>
+<td>0</td>
+<td>Doing any damage will knockout a surprised character</td>
+</tr>
+<tr class="even">
+<td>Knife/Knuckle Dusters</td>
+<td>Physique+1D</td>
+<td>0</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Sword</td>
+<td>Physique+3D</td>
+<td>2</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Two Handed Sword</td>
+<td>Physique+5D</td>
+<td>2</td>
+<td>Strikes last in combat</td>
+</tr>
+<tr class="odd">
+<td>Warhammer</td>
+<td>Physique+3D</td>
+<td>0/3</td>
+<td>Pen is 0 for any non-metal armour/3 for metal armour</td>
+</tr>
+<tr class="even">
+<td>Spear</td>
+<td>Physique+3D</td>
+<td>1</td>
+<td>Strikes first in Melee combat, +2D damage vs Mounted</td>
+</tr>
+<tr class="odd">
+<td>Plasma Blade</td>
+<td>Physique+3D</td>
+<td>4</td>
+<td>This weapon is from the Future Era</td>
+</tr>
+</tbody>
+</table>
+<h3 id="ranged-weapons">Ranged weapons</h3>
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 4%" />
+<col style="width: 2%" />
+<col style="width: 5%" />
+<col style="width: 77%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Weapon</th>
+<th>Damage</th>
+<th>Pen</th>
+<th>Range</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Blunt Object</td>
+<td>4D</td>
+<td>0</td>
+<td>Short</td>
+<td>Covers any improvised throwing weapon</td>
+</tr>
+<tr class="even">
+<td>Knife</td>
+<td>5D</td>
+<td>0</td>
+<td>Short</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Bow</td>
+<td>6D</td>
+<td>2</td>
+<td>Long</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Crossbow</td>
+<td>8D</td>
+<td>3</td>
+<td>Long</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Light Pistol</td>
+<td>4D</td>
+<td>2</td>
+<td>Medium</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Heavy Pistol</td>
+<td>5D</td>
+<td>3</td>
+<td>Medium</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Hunting Rifle</td>
+<td>5D</td>
+<td>4</td>
+<td>Extreme</td>
+<td>Aiming bonus doubled</td>
+</tr>
+<tr class="even">
+<td>Assault Rifle</td>
+<td>6D</td>
+<td>3</td>
+<td>Long</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Shotgun</td>
+<td>8D/5D</td>
+<td>0</td>
+<td>Short</td>
+<td>Slug rounds do 8D, With Shot rounds (5D) additional free attacks can be made on other nearby targets</td>
+</tr>
+<tr class="even">
+<td>Laser Pistol</td>
+<td>5D</td>
+<td>4</td>
+<td>Long</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Laser Rifle</td>
+<td>7D</td>
+<td>4</td>
+<td>Extreme</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<h3 id="armour-protection">Armour &amp; protection</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>AV</th>
+<th>Era</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Leather</td>
+<td>1</td>
+<td>Archaic</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Chain</td>
+<td>2</td>
+<td>Archaic</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Plate</td>
+<td>3</td>
+<td>Archaic</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Stab Vest</td>
+<td>2</td>
+<td>Modern</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Ballistic Vest</td>
+<td>3</td>
+<td>Modern</td>
+<td>Reduce Weapon Pen by 1</td>
+</tr>
+<tr class="even">
+<td>Body Armour</td>
+<td>5</td>
+<td>Modern</td>
+<td>Reduce Weapon Pen by 2</td>
+</tr>
+<tr class="odd">
+<td>Space Suit</td>
+<td>4</td>
+<td>Future</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Combat Survival Suit</td>
+<td>5</td>
+<td>Future</td>
+<td>Reduce Weapon Pen by 1</td>
+</tr>
+<tr class="odd">
+<td>Exo-Suit</td>
+<td>6</td>
+<td>Future</td>
+<td>Reduce Weapon Pen by 2</td>
+</tr>
+</tbody>
+</table>
+<h1 id="powers-abilities">Powers &amp; Abilities</h1>
+<p>In various settings characters can display powers of one sort of another. These might represent arcane magic, superpowers or even special one-off abilities provided by a Perk or to a specific species within the game world.</p>
+<p>How characters gain access to powers depends on the setting and style of game being played but will usually require the acquisition of a specific Perk.</p>
+<h2 id="stress-points">Stress Points</h2>
+<p>To manifest powers or abilities characters MR6 use Stress. This represents everything from the effort to memorised arcane magic, the raw willpower to manipulate reality through to energy needed to invest a device to activate it.</p>
+<p>In some setting characters might have access to pools additional Stress points or ways of generating Stress points specifically for manifesting powers.</p>
+<h3 id="activating-the-power">Activating the power</h3>
+<p>In most cases, it costs 1 Stress to trigger an ability, and will usually require the Task roll to successfully achieve its effects. Some powers can be enhanced or extended for the cost of extra Stress.</p>
+<h3 id="regaining-stress-used-for-powers">Regaining stress used for powers</h3>
+<p>As with the expenditure of Stress in all other cases (<a href="#taking-stress">taking stress</a> or <a href="#injuries-table">getting wounded</a>, etc) recovery of Stress used for powers is at the discretion of the Game Master, but usually regenerate after a refreshing rest is completed. This might represent the character getting an hour’s sleep, or reflect a sorcerer spending his time memorising his spell book.</p>
+<h2 id="aquiring-powers">Aquiring powers</h2>
+<p>Again the list of powers or abilities a character might have depends greatly on the setting in which they are playing. A Wizard or Cleric might have access to a number of “spells”, while a future-world might only have one or two.</p>
+<h2 id="using-a-power-or-ability">Using a power or ability</h2>
+<p>An ability is usually requires a Task roll based on the powers’ <strong>Controlling Attribute</strong> to be activated.</p>
+<h2 id="always-on-abilities">“Always on” abilities</h2>
+<p>Some abilities may be deemed to be “always on” (such as a superhero with the ability to fly for example). For each “always on” a character has their Stress Point pool is permanently reduced by 1.</p>
+<p>For example, Thomas’ Mutant character has 4 Stress Points (equal to his <strong>Will</strong> plus <strong>Physique</strong>), and as one of his powers decides to take the Telepathy ability. As this ability is deemed to be “always on” it costs 1 permanent Stress Point, which reduces his Stress Point Pool for his other abilities.</p>
+<h2 id="example-power-task-modifiers">Example power task modifiers</h2>
+<p>These may be modified by various situational circumstances or events.</p>
+<table>
+<colgroup>
+<col style="width: 13%" />
+<col style="width: 15%" />
+<col style="width: 70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Situation</th>
+<th>Modifier</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>No Pressure Situation</td>
+<td>+1D</td>
+<td>Activating a power when there is no time or situation pressures.</td>
+</tr>
+<tr class="even">
+<td>Focus Activation</td>
+<td>+2D per Stress Point</td>
+<td>Some powers can be enhanced to ensure they succeed.</td>
+</tr>
+<tr class="odd">
+<td>Wounds</td>
+<td>As per the Injuries chart</td>
+<td>Injuries may impair a character’s competency to use an ability correctly.</td>
+</tr>
+<tr class="even">
+<td>Targeting an Ability</td>
+<td>-1D per ally</td>
+<td>Targeting an ability into melee is difficult, especially when allies might be affected by an ability’s outcome.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="example-powers">Example powers</h2>
+<p>Below is a list of powers that can be used as example of how such abilities manifest mechanically.</p>
+<h4 id="strike">Strike</h4>
+<p>This is a blast of energy that strikes out at target close to the “caster”.</p>
+<ul>
+<li><strong>Base Cost</strong>: 1 Stress</li>
+<li><strong>Range</strong>: One target in Melee</li>
+<li><strong>Task Roll</strong>: Controlling Attribute</li>
+<li><strong>Target Number</strong>: Target’s Block Defence</li>
+<li><strong>Effect</strong>: Causes damage equal to the casters Will Atrribute+2D.</li>
+<li><strong>Enhancements</strong>: For each additional Stress spent chose two additional effects:
+<ul>
+<li>Target an additional enemy in melee range.</li>
+<li>Add +1D to the damage effect (for one target)</li>
+<li>Move the target away from the caster.</li>
+</ul></li>
+</ul>
+<h4 id="shield">Shield</h4>
+<p>The caster creates a barrier to protect them or their allies.</p>
+<ul>
+<li><strong>Base Cost</strong>: 1 Stress.</li>
+<li><strong>Range</strong>: One Ally within Touch range</li>
+<li><strong>Task Roll</strong>: None required</li>
+<li><strong>Target Number</strong>: None Required</li>
+<li><strong>Effect</strong>: The target’s Block Defence is increased by 2 until dusk or dawn.</li>
+<li><strong>Enhancements</strong>: For each additional Stress spent chose two additional effects:
+<ul>
+<li>Extend the effect to additional Ally</li>
+<li>Increase the Block Defence bonus (for one target) by 1.</li>
+</ul></li>
+</ul>
+<h4 id="fly">Fly</h4>
+<ul>
+<li><strong>Base Cost</strong>: 1 Stress</li>
+<li><strong>Range</strong>: One Ally within Touch range</li>
+<li><strong>Task Roll</strong>: None required</li>
+<li><strong>Target Number</strong>: None Required</li>
+<li><strong>Effect</strong>: The target can fly at the speed of a run or 1 hour.</li>
+<li><strong>Enhancements</strong>: For each additional Stress spent the caster can extend the effect to 2 additional Allies.</li>
+</ul>
+<h4 id="healing-touch">Healing touch</h4>
+<ul>
+<li><strong>Base Cost</strong>: 2 Stress</li>
+<li><strong>Range</strong>: One Ally within Touch range</li>
+<li><strong>Task Roll</strong>: None</li>
+<li><strong>Target Number</strong>: None Required</li>
+<li><strong>Effect</strong>: The target immediately heals one level of wounds.</li>
+<li><strong>Enhancements</strong>: None</li>
+</ul>
+<h1 id="mechanics">Mechanics</h1>
+<p>The following expands on the base process detailed in the <a href="#comleting-tasks"><strong>Completing a Task</strong></a>.</p>
+<h2 id="modifiers">Modifiers</h2>
+<p>There are various circumstances that may modify the number of dice a character or Non-Player Character might roll.</p>
+<h3 id="scaling">Scaling</h3>
+<p>To reflect a difference in size, when targeting:</p>
+<ul>
+<li>larger targets, the attacker adds +1D to their Attribute for each scale size difference.</li>
+<li>smaller targets, the defender may add +1 to their Dodge Static Statistic for each scale size difference.</li>
+</ul>
+<h3 id="ranges">Ranges</h3>
+<p>Range in MR6 is generally abstract with an object or target said to be at one of the five ranges steps from the character (Melee, Short, Medium, Long, Extreme).</p>
+<ul>
+<li>Melee weapons can only be used in Melee range step.</li>
+<li>Range weapons can fire at any range but incur a -1D modifier for each range step beyond that listed on the weapon.</li>
+</ul>
+<h3 id="situational-modifiers">Situational modifiers</h3>
+<p>The following modifiers reflect an increase or decrease in the character’s chance of success in a task.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>Modifier</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Ganging-up</td>
+<td>+1D for each ally currently attacking an nemy in melee</td>
+</tr>
+<tr class="even">
+<td>Aiming</td>
+<td>+2D per action spent aiming at a target</td>
+</tr>
+<tr class="odd">
+<td>Wounded</td>
+<td>See <a href="#wounding-a-target">Wounding a Target</a>.</td>
+</tr>
+<tr class="even">
+<td>Cover</td>
+<td>-1D to -5D depending on the type and impact of cover.</td>
+</tr>
+<tr class="odd">
+<td>Called Shot</td>
+<td>-1D to -5D depending on the size of the target.</td>
+</tr>
+<tr class="even">
+<td>Unsuspecting Target</td>
+<td>+3D to strike at a target not suspecting an attack.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="critical-failures">Critical failures</h3>
+<p>Critical failures occur when, in a task roll, more than half the dice in the Dice Pool roll a “1”. I.e. if 2 or 3 dice are in the Dice Pool, 2 roll “1s”. When 4 are in the Dice pool 3 must roll 1s.</p>
+<p>If a critical failure occurs the worst possible outcome of the task is applied.</p>
+<h3 id="exceptional-success">Exceptional Success</h3>
+<p>If the total rolled ever exceeds the Target number of the task by 10 or more, an exceptional success occurs.</p>
+<p>In this event, the player may immediately select one of the following bonuses:</p>
+<ul>
+<li>Recover 1 point of Stress</li>
+<li>Add 1D to the damage of the weapon used in the task roll.</li>
+<li>Move to the top of the Initiative order in the next round.</li>
+<li>Gain some non-mechanic bonus at the Game Master’s discretion.</li>
+</ul>
+<h3 id="invoking-tags">Invoking tags</h3>
+<p>Tags are how MR6 represents an individual’s skills, talents, and worldly experience. Tags can be invoked any time a Task is attempted and, if appropriate, multiple Tags can be used in a Dice Pool.</p>
+<p>Each Tag adds 1D the character’s Dice Pool, with the Game Master as the final arbiter on when Tag can be invoked.</p>
+<h2 id="resolving-conflict">Resolving conflict</h2>
+<p>In a conflict situation, the action is played out over a number of rounds. These rounds continue until the conflict is resolved.</p>
+<h3 id="order-of-conflict">Order of conflict</h3>
+<p>Each Round the following steps are completed.</p>
+<ol type="1">
+<li><strong>Determine initiative</strong>: Each character rolls their Initiative for the round.</li>
+<li><strong>Declare</strong>: In reverse order (from lowest to highest initiative), each character declares their actions for the round.</li>
+<li><strong>Act</strong>: In the order of Initiative, the character act out their actions.</li>
+<li><strong>Recover</strong>: As required, the players and Game Master complete any “house-keeping” of statistics, effects, or other mechanics.</li>
+</ol>
+<h3 id="initiative">Initiative</h3>
+<p>At the beginning of each Round of combat, the combatants determine the order by rolling their <strong>Wit</strong> Dice and totalling the number rolled. In the case that to characters tie in Initiative, a D6 should be rolled to determine who goes first.</p>
+<p>Once the initiative order is determined each round of the conflict is divided into three phases.</p>
+<h2 id="actions">Actions</h2>
+<p>There isn’t any set timeframe or limit to what a character can do in a Round. The Game Master remains the final arbiter of any actions. Some specific actions are detailed below.</p>
+<h3 id="non-combat-actions">Non-combat actions</h3>
+<p>Conflict isn’t only about shoot and hitting each other, and characters may want to do one of the following instead of attacking.</p>
+<ul>
+<li><strong>Assist</strong>: The character spends their action helping their fellows by pointing out enemies and weak spots or assisting with reloading weapons, etc. Each assisting character provides a +1D to all allies" dice pools until they next act.</li>
+<li><strong>Assess</strong>: Spending an action looking down a scope at an enemy (as per the <strong>Situational Modifier: Aiming</strong>) or sizing up an opponent provide +2D on the next action against the target.</li>
+<li><strong>Full Defence</strong>: Doing nothing else but actively dodging as an action they gain +10 to their Dodge until their next action.</li>
+</ul>
+<h2 id="melee-combat">Melee Combat</h2>
+<p>The action of striking at an opponent with a hand or close combat weapon.</p>
+<ol type="1">
+<li>The attacking character selects a target that is within Melee range.</li>
+<li>The attacking character makes a <strong>Physique</strong> task roll versus using the defending character’s Block Defence or Dodge Defence as the Target Number (the defender may choose which to use).</li>
+<li>If the roll equals or exceed the selected defence, then the defender is hit (see <a href="#wounding-a-target">Wounding a Target</a>).</li>
+<li>If defender opted to Dodge and the roll is less than that defence then the attack misses.</li>
+<li>If defender opted to Block and the roll is less than that defence then the attack misses, <strong>and</strong> the defender gets a free melee attack back versus the attacker’s Block defence.</li>
+</ol>
+<h3 id="ranged-combat">Ranged Combat</h3>
+<p>The action of shooting or throwing a weapon.</p>
+<ol type="1">
+<li>The attacking character selects a target and checks its range.</li>
+<li>The attacking character makes a <strong>Co-ordination</strong> task roll using the defending character’s Dodge Defence as the Target Number.</li>
+<li>If the roll equals or exceed their Dodge, then the defender is hit (see <a href="#wounding-a-target">Wounding a Target</a>).</li>
+</ol>
+<h3 id="wounding-a-target">Wounding a target</h3>
+<p>When him the attacker must determine the extent to the injury.</p>
+<ol type="1">
+<li>The attacking character rolls the damage for the weapon they have successful hit with. For ranged weapon, this is a set number of D, while for melee weapons this is equal to the character’s <strong>Physique</strong> attribute plus additional D.</li>
+<li>Compare the total rolled for damage versus the defenders’ <strong>Toughness</strong> and consult the injuries table.</li>
+</ol>
+<h4 id="injuries-table">Injuries table</h4>
+<p>This table details the effects of injuries. If a character takes the same injury twice, the effect moves up one level of effect.</p>
+<table>
+<colgroup>
+<col style="width: 5%" />
+<col style="width: 94%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Difference</th>
+<th>Effects</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0 or less</td>
+<td>No effect, the target is unharmed</td>
+</tr>
+<tr class="even">
+<td>1-3</td>
+<td><em>Stunned</em>: Either take 1 Stress Point or -1D on the next action the character attempts.</td>
+</tr>
+<tr class="odd">
+<td>4-8</td>
+<td><em>Wounded</em>: -1D to all actions until healed. If a second wound is taken the character becomes Severely Wounded: -2D on all actions until healed.</td>
+</tr>
+<tr class="even">
+<td>9-12</td>
+<td><em>Critically Wounded</em>: The character barely remains in the fight. -2D on all actions until healed, but every turn the character must make a Simple <strong>Physique</strong> test or become incapacitated.</td>
+</tr>
+<tr class="odd">
+<td>13-15</td>
+<td><em>Mortally Wounded</em>: The force of the attack renders the character unconscious and near death. The character make a Simple <strong>Physique</strong> test each turn or die.</td>
+</tr>
+<tr class="even">
+<td>16+</td>
+<td><em>Dead</em>: The character has perished. The Game Master may allow a First Aid roll to save the character.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="taking-stress">Taking stress</h2>
+<p>A character accumulating enough Stress to reach their Stress Threshold, they are immediately rendered unconscious (unless the event pushing them over the Threshold states differently.</p>
+<p>Characters can take Stress voluntarily or as the result of an event or encounter. This includes:</p>
+<ul>
+<li>To add addition dice when attempting a Task.</li>
+<li>As the result of Wounds (i.e. when a Stun or special effect impacts the character), or</li>
+<li>When affected by a psychological effect as the result of fear, chemicals, or encountering otherworldly horrors.</li>
+</ul>
+<h3 id="resisting-psychological-effects">Resisting psychological effects</h3>
+<p>Character use their <em>Mental Fortitude</em> to resist the effects of any psychological attack. Each effect, monster or event will utilise specific Attributes to roll against this defence.</p>
+<p>Additionally any attack rolling higher than the character’s <em>Mental Fortitude</em> will inflicts Wounds, Stress or other effects as individually noted.</p>
+<h3 id="reaching-your-stress-threshold">Reaching your stress threshold</h3>
+<p>If a character takes enough stress to reach their Stress Threshold, they are immediately render incapacitated and take one level of injury.</p>
+<h2 id="healing">Healing</h2>
+<p>As time passes, character heal from their wounds and recover from Stress.</p>
+<h3 id="first-aid">First aid</h3>
+<p>Characters can attempt to immediately heal a character one level of injury. This is done as <strong>Wit</strong> task with the following difficulty.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Injury Target</th>
+<th>Number</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Wounded</td>
+<td>7</td>
+</tr>
+<tr class="even">
+<td>Severely Wounded</td>
+<td>9</td>
+</tr>
+<tr class="odd">
+<td>Critically Wounded</td>
+<td>11</td>
+</tr>
+<tr class="even">
+<td>Mortally Wounded</td>
+<td>13</td>
+</tr>
+<tr class="odd">
+<td>Dead</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
+<p>Only one level of injury can be healed by First Aid each day.</p>
+<h3 id="naturally-healing-wounds">Naturally healing wounds</h3>
+<p>If a wounded character rests he is allowed a <strong>Physique</strong> test and if successful heals an injury level. The frequency of the check depends on the severity of the character’s wounds.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Injury</th>
+<th>Frequency</th>
+<th>Target Number</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Wounded</td>
+<td>1 Day</td>
+<td>7</td>
+</tr>
+<tr class="even">
+<td>Severely Wounded</td>
+<td>3 Days</td>
+<td>7</td>
+</tr>
+<tr class="odd">
+<td>Critically Wounded</td>
+<td>1 Week</td>
+<td>9</td>
+</tr>
+<tr class="even">
+<td>Mortally Wounded</td>
+<td>3 Weeks</td>
+<td>11</td>
+</tr>
+</tbody>
+</table>
+<h3 id="recovering-stress">Recovering stress</h3>
+<p>Stress can be recovered in a number of ways:</p>
+<ul>
+<li>As an option as the result of an <a href="#exceptional-success">Exceptional success</a>.</li>
+<li>As a reward for an outstanding action or milestone situation.</li>
+<li>After a full and restful night’s sleep (or similar) period of recovery.</li>
+</ul>
+<p>The amount of Stress recovered depends on the circumstance of the rest and can range rom one to three points.</p>
+<h2 id="example-of-conflict">Example of conflict</h2>
+<p>The following is an example of how a round of conflict can occur in MR6:</p>
+<p><em>Jon’s character Heldaw has snuck into an enemy castle and is making his way to the bandit chief’s sleeping quarters. Turning a corner he runs straight into one very awake guard, who drawing his blade, challenges the intruder. Never one to parley when a good fight is in the offing, Jon states that Heldaw attacks the guardsman!</em></p>
+<p><em>As it is the beginning of a round, both sides roll their Initiative rolls. The Guard has 2D+1 for his Wits, while Heldaw has 3D. Unfortunately for Jon he rolls only 6 on his dice, while the Game Master rolls 11.</em></p>
+<p><em>The players then declare their character’s actions, and given that Jon lost this rounds initiative, he must declare first. Thinking on it for a moment, he states that Heldaw will attempt to strike the guard down, while the Game Master says that his guard will also attack the intruder. As these actions resolve themselves in a pretty straight forward manner, the Game Master and Jon agree just to move into the Act phase of the ound.</em></p>
+<p><em>The Guard attacks first and determines their dice pool to be 3D+1 (the NPCs Physique dice of 2D+1 and adding +1D for the Guardsman Tag). The Game Master rolls the dice and gets a total of 15. As Heldaw’s Dodge Defence is only 11, the adventurer is hit</em></p>
+<h1 id="non-player-character">Non-player character</h1>
+<p>For the most part Non-Player Characters of all types (friends, enemies, allies, or opponents) can be treated the same as the Characters. They will have Attributes, Tags and Equipment. They should not have access however to Fate or Stress points (these should remain unique to the Player Characters). When conflict occurs, however, the Game Master needs a simple way of tracking the effects and injuries inflicted on these individuals.</p>
+<h2 id="npc-damage-wounds">NPC damage &amp; wounds</h2>
+<p>Rather than using the Injuries table most NPCs/Creatures damage have a number of Wounds they can take and a number of Scratches they can absorb.</p>
+<ul>
+<li><strong>Scratches</strong>: This represents a level of toughness the creature has before it starts to take any wounds. The number of Scratches an opponent can take varies, with minor NPCs have likely having none, and Dragons or Giants having many.</li>
+<li><strong>Wounds</strong>: Most regular NPCs can only take one Wound before being incapacitated (such as Goblins or normal humans etc.), but some might be able to multiple before they are out of a fight.</li>
+<li><strong>Wound Thresholds</strong>: For NPCs with multiple wounds this is the number they can take before have some mechanic effect on their dice pools (as occurs with Character Injuries).</li>
+</ul>
+<h3 id="npc-damage-table">NPC damage table</h3>
+<p>When an NPC or creature is hit use the following table instead (rather than the injuries table used for Player Characters).</p>
+<table>
+<thead>
+<tr class="header">
+<th>Difference</th>
+<th>Effects</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>0 or less</strong></td>
+<td>No effect, the target is unharmed</td>
+</tr>
+<tr class="even">
+<td><strong>1-3</strong></td>
+<td>1 Damage</td>
+</tr>
+<tr class="odd">
+<td><strong>4-8</strong></td>
+<td>2 Damage</td>
+</tr>
+<tr class="even">
+<td><strong>9-12</strong></td>
+<td>3 Damage</td>
+</tr>
+<tr class="odd">
+<td><strong>13-15</strong></td>
+<td>4 Damage</td>
+</tr>
+<tr class="even">
+<td><strong>16+</strong></td>
+<td>5 Damage</td>
+</tr>
+</tbody>
+</table>
+<h3 id="allocating-damage">Allocating damage</h3>
+<p>Damage is allocated to Scratches before Wounds. For each Damage noted a Scratch is taken by the NPC/creature when they can not take any more Scratches, Damage is allocated to Wounds. When an NPC/creature can take no more wounds they are unconscious, dead, or otherwise removed from play.</p>
+<h3 id="scratches">Scratches</h3>
+<p>Scratches are used to absorb damage without any mechanical impact on the NPC or creature. Think of this as luck, minor wounds or not having enough impact on a creature to substantively slow it down.</p>
+<h3 id="effects-of-taking-wounds">Effects of taking wounds</h3>
+<p>Some NPCs/creatures are immediately removed as soon as they take a Wound, others have Wound Thresholds. When a Threshold is reached the NPC is at -1D for all actions until heal. Some creatures or threats might have multiple Wound Thresholds, each one reached, resulting in another 1D being removed.</p>
+<h2 id="example-of-npc-damage">Example of NPC damage</h2>
+<p>The following is an example of how NPC damage and wounds</p>
+<p><em>Jon’s Heldaw is amid combat with angry villager and his crazed cultist ally. The villager is a regular human, so has 2 Scratches and 1 Wound. The cultist however is driven by the power of his dark god (and more than a few drugs) with 4 Scratches and 2 Wounds. He also has a Wound Threshold of 1.</em></p>
+<p><em>Early in the fight Jon hits the villager with his Axe and rolls a difference of 8 his Injury roll. Looking at NPC Damage Table this results in 2 Damage, which is absorbed by the villages Scratches (resulting in no real effect outside of the narrative one of the villager leaping backwards at the last second as Jon’s blade splits open his jerkin). The next round Jon hits again and only rolls a difference of 3. This however is 1 Damage, enough to do the single wound to the villager and take him out of the fight (The Game Master narrating a wrist being lopped off, and the screaming man collapsing to the ground grasping at the stump).</em></p>
+<p><em>Later in the fight, facing the more dangerous cultist, Jon again hits, and - with a couple of exploding Wild Die 6s - roll 18 above the crazy’s Toughness. This however only does 5 Damage, and the cultist Scratches absorb the first 4. As he also has two Wounds the single remaining damage doesn’t take the mad man out. However, as he does have a Wound Threshold at 1, the cultist will be at -1D for the result of the fight.</em></p>
+<p><em>The Game Master describes the scene with the two combatants swirling past each other in a flurry of limbs and metal, with Jon’s blade solidly connecting with the cultist’s skull. The lunatic stumbles, and almost falls, but recovers at the last moment, swings around to face his attacker. Jon’s character blanches as he sees the cultist’s face is a bloody ruin of teeth, bone, and a loose hanging eye… but is unsurprised to see the “man” lick the mess from his lips and half stagger, half run back into the fray!</em></p>
+</body>
+</html>
