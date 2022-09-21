@@ -55,7 +55,7 @@ Your choice of setting forms the basis of the table’s consensus about what is 
 
 ### Who Are You?
 
-Once you’ve decided on a setting, it’s time for the players to <a id="_idTextAnchor000"></a>make characters—also called PCs. Each player takes on the role of one of the heroes of your story, controlling all their actions. You get to build the character you want to see in the world. Keep in mind that Fate characters are competent, dramatic, and willing to engage with the adventures ahead.
+Once you’ve decided on a setting, it’s time for the players to make characters—also called PCs. Each player takes on the role of one of the heroes of your story, controlling all their actions. You get to build the character you want to see in the world. Keep in mind that Fate characters are competent, dramatic, and willing to engage with the adventures ahead.
 
 Your PC is made up of several elements:
 
@@ -113,7 +113,7 @@ You’ll choose your character’s skill ratings, arranged in a pyramid with the
 *   Four Average (+1) skills
 *   All other skills at Mediocre (+0)
 
-#### The <a id="_idTextAnchor001"></a>Adjective Ladder
+#### The Adjective Ladder
 
 In _Fate Condensed_, and Fate in general, all ratings are organized into a ladder of adjectives, shown here.
 
@@ -205,7 +205,7 @@ When building your own implementation of Fate, the first thing to think about is
 *   Skill ratings in Fate are structured to support character niches. That’s why, in the default, players start with a “pyramid” shape. Make sure niche protection is possible in whatever new list you create.
 *   The best starting skill should come in around Great (+4). You can alter this up or down as you see fit, but make sure to keep an eye on what that means for the difficulty and opposing skill ratings your PCs will face.
 
-Fred decides he wants to do a space-faring Fate game with a shorter skill list that’s focused on action-words. He settles on this 9-item skill list: Fight, Know, Move, Notice, Pilot, Sneak, Speak, Tinker, and Will. He also likes the idea of a “diamond” shape for skill ratings rather than a pyramid, so he has players rate their starting skills as follows: 1 at Great (+4), 2 at Good (+3), 3 at Fair (+2), 2 at Average (+1), and 1 at Mediocre (+0). His PCs will have a lot of overlap and core competencies due to the fat middle of his diamond, while still enjoying some niche protections at the top of the diamond’s “point.”
+> Fred decides he wants to do a space-faring Fate game with a shorter skill list that’s focused on action-words. He settles on this 9-item skill list: Fight, Know, Move, Notice, Pilot, Sneak, Speak, Tinker, and Will. He also likes the idea of a “diamond” shape for skill ratings rather than a pyramid, so he has players rate their starting skills as follows: 1 at Great (+4), 2 at Good (+3), 3 at Fair (+2), 2 at Average (+1), and 1 at Mediocre (+0). His PCs will have a lot of overlap and core competencies due to the fat middle of his diamond, while still enjoying some niche protections at the top of the diamond’s “point.”
 
 If you’re considering making your own skill list for your game and are looking for some ideas to kick-start your imagination, see **page XX.**
 
@@ -215,7 +215,7 @@ Your **refresh** is the minimum number of **fate points** (**page XX**) your cha
 
 Each session, you start with fate points at least equal to your refresh. Be sure to keep track of the fate points you have left at the end of each session of play—if you have more fate points than your refresh, you’ll start the next session with the fate points you ended this session with.
 
-Charles earned a lot of fate points during today’s session, ending it with 5 fate points. His refresh is 2, so Charles will start the next session with 5 fate points. But Ethan ends the same session with just one fate point. His refresh is 3, so he’ll begin the next session with 3 fate points, not just the one he had left over.
+> Charles earned a lot of fate points during today’s session, ending it with 5 fate points. His refresh is 2, so Charles will start the next session with 5 fate points. But Ethan ends the same session with just one fate point. His refresh is 3, so he’ll begin the next session with 3 fate points, not just the one he had left over.
 
 ### Stunts
 
@@ -251,7 +251,7 @@ Because I **[describe how you are amazing or have a cool bit of gear]**, I can *
 
 ### Stress and Consequences
 
-**<a id="_idTextAnchor002"></a>Stress** and **consequences** are how your character withstands the mental and physical toll of their adventures. Characters have at least three one-point boxes for physical stress and at least three one-point boxes for mental stress. They also get one slot each for mild, moderate, and severe consequences.
+**Stress** and **consequences** are how your character withstands the mental and physical toll of their adventures. Characters have at least three one-point boxes for physical stress and at least three one-point boxes for mental stress. They also get one slot each for mild, moderate, and severe consequences.
 
 Your rating in Physique affects how many total physical stress boxes you have. Will does the same for your mental stress. Refer to the following table:
 
@@ -319,9 +319,9 @@ On your turn, you may modify your dice by invoking aspects to get +2 to your rol
 
 ### Invoking Aspects
 
-<a id="_idTextAnchor003"></a>When you take action but the dice come up short, you don’t have to sit back and accept failure. (Though you totally can. That’s fun too.) The aspects in play give you options and opportunity to succeed.
+When you take action but the dice come up short, you don’t have to sit back and accept failure. (Though you totally can. That’s fun too.) The aspects in play give you options and opportunity to succeed.
 
-When an aspect could justifiably help your efforts, describe how it helps and spend a fate point to <a id="_idTextAnchor004"></a>**invoke** it (or use a free invoke). What is and isn’t justifiable is subject to the **<a id="_idTextAnchor005"></a>bogus rule**—anyone can say “that’s bogus!” to invoking an aspect. Simply put, the bogus rule is a **calibration tool** that anyone at the table may use to help the group make sure the game stays true to its vision and concept. You can use the safety tools discussed on **page XX** in a similar fashion.
+When an aspect could justifiably help your efforts, describe how it helps and spend a fate point to **invoke** it (or use a free invoke). What is and isn’t justifiable is subject to the **bogus rule**—anyone can say “that’s bogus!” to invoking an aspect. Simply put, the bogus rule is a **calibration tool** that anyone at the table may use to help the group make sure the game stays true to its vision and concept. You can use the safety tools discussed on **page XX** in a similar fashion.
 
 You have two options when your invoke looks bogus. First, you can retract your invoke and try something else, maybe a different aspect. Second, you can have a quick discussion about why you think the aspect fits. If the person still isn’t convinced, retract the invoke and move on. If they come around to your perspective, go ahead with the invoke as usual. The bogus rule is in here to help everyone at the table have a good time. Use it when something doesn’t sound right, make sense, or fit the tone. Someone invoking **Great at First Impressions** to throw a car is likely bogus. But maybe that character has a supernatural stunt that makes them incredibly strong, strong enough to plausibly throw a car, and this is their opening gambit in a fight with a horrible monster. In that case, maybe **Great at First Impressions** is plausible.
 
@@ -333,7 +333,7 @@ Often you’ll invoke one of your character aspects. You may also invoke a situa
 
 ### Using Stunts
 
-<a id="_idTextAnchor006"></a>Stunts may give you a bonus to your roll, provided you meet the criteria written in the stunt, such as the circumstances, action, or skill used. You may wish to use create advantage (**page XX**) to introduce aspects that line up with those circumstances. Keep your stunts’ circumstances in mind when you describe your actions too, and set yourself up for success.
+Stunts may give you a bonus to your roll, provided you meet the criteria written in the stunt, such as the circumstances, action, or skill used. You may wish to use create advantage (**page XX**) to introduce aspects that line up with those circumstances. Keep your stunts’ circumstances in mind when you describe your actions too, and set yourself up for success.
 
 Normally, stunts give you a +2 bonus in a narrow circumstance with no cost; you may use them anytime they apply. Some rare and exceptionally powerful stunts may require you to spend a fate point to use them.
 
@@ -364,7 +364,7 @@ Ethan pulls the handle triumphantly, but the safe remains resolutely closed whil
 
 #### Success at a major cost
 
-Second is <a id="_idTextAnchor007"></a>**success at a major cost**. You do what you set out to do, but there’s a significant price to be paid—the situation gets worse or more complicated. GM, you can either declare this is the result or can offer it in place of failure. Both options are good and useful in different situations.
+Second is **success at a major cost**. You do what you set out to do, but there’s a significant price to be paid—the situation gets worse or more complicated. GM, you can either declare this is the result or can offer it in place of failure. Both options are good and useful in different situations.
 
 Ethan fails his roll and the GM says, “You hear the click of the last tumbler falling into place. It’s echoed by the click of the hammer on a revolver as the guard tells you to put your hands in the air.” The major cost here is the confrontation with a guard he’d hoped to avoid.
 
@@ -384,7 +384,7 @@ Just like failure, ties should move the story forward, never stymie the action. 
 
 #### Success at a minor cost
 
-The first is <a id="_idTextAnchor008"></a>**success at a minor cost**—a few points of stress, story details about difficulty or complication but aren’t hindrances themselves, and a boost (**page XX**) to the enemy are all minor costs.
+The first is **success at a minor cost**—a few points of stress, story details about difficulty or complication but aren’t hindrances themselves, and a boost (**page XX**) to the enemy are all minor costs.
 
 Ethan’s first few attempts all fail. By the time he actually gets the door open, dawn has broken, and escape under cover of darkness is impossible. He got what he needed, but his situation is worse now.
 
@@ -416,7 +416,7 @@ Ethan is beyond lucky; the safe door opens almost instantly. Not only does he ge
 
 ## Actions
 
-There are four <a id="_idTextAnchor009"></a>actions you can roll, each with a specific purpose and effect on the story:
+There are four actions you can roll, each with a specific purpose and effect on the story:
 
 *   **Overcome** to surmount obstacles with your skills.
 *   **Create an advantage** to change a situation to your benefit.
@@ -427,7 +427,7 @@ There are four <a id="_idTextAnchor009"></a>actions you can roll, each with a sp
 
 Overcome to surmount obstacles with your skills.
 
-Every character will face untold challenges in the course of the story. The <a id="_idTextAnchor010"></a>**overcome** action is how they face and surmount those obstacles.
+Every character will face untold challenges in the course of the story. The **overcome** action is how they face and surmount those obstacles.
 
 A character good at Athletics can climb over walls and race through crowded streets. A detective with high Investigate can piece together clues others have missed. Someone skilled in Rapport will find it easier to avoid a fight in a hostile bar.
 
@@ -438,7 +438,7 @@ Your outcomes when overcoming are:
 * **If you succeed,** you meet your goal and the story moves on without hiccups.
 * **If you succeed with style,** it’s a success and you also get a boost.
 
-Charles has made his way to an Antarctic research facility. The buildings have been wrecked, and the occupants are missing. He wants to search the wreckage for clues. The GM tells him to roll Investigate against Fair (+2) difficulty. Charles gets <dice>[0][0][+][+]</dice> on the dice, plus his Average (+1) Investigate, for a Good (+3) effort. A success! The GM describes the clue he finds: footprints in the snow, made by creatures walking on many thin, inhuman legs.
+> Charles has made his way to an Antarctic research facility. The buildings have been wrecked, and the occupants are missing. He wants to search the wreckage for clues. The GM tells him to roll Investigate against Fair (+2) difficulty. Charles gets <dice>[0][0][+][+]</dice> on the dice, plus his Average (+1) Investigate, for a Good (+3) effort. A success! The GM describes the clue he finds: footprints in the snow, made by creatures walking on many thin, inhuman legs.
 
 Overcome actions are often used to determine whether a character can access or notice a particular fact or clue. Keep a close eye on those success-at-a-cost options when that’s the case. If missing a detail would cause your story to stall, take failure off the table, and focus on the cost instead.
 
@@ -446,7 +446,7 @@ Overcome actions are often used to determine whether a character can access or n
 
 Create A situation aspect or gain a benefit from an existing aspect.
 
-You can use the <a id="_idTextAnchor011"></a>**create an advantage** action to change the course of the story. By using your skills to introduce new aspects or add invokes to existing aspects, you can stack the deck for yourself and your teammates. You might change the circumstances (barring a door or creating a plan), discover new information (learning a monster’s weakness through research), or take advantage of something already known (such as a CEO’s taste for scotch).
+You can use the **create an advantage** action to change the course of the story. By using your skills to introduce new aspects or add invokes to existing aspects, you can stack the deck for yourself and your teammates. You might change the circumstances (barring a door or creating a plan), discover new information (learning a monster’s weakness through research), or take advantage of something already known (such as a CEO’s taste for scotch).
 
 An aspect created (or discovered) by creating an advantage works like any other: It defines the narrative circumstances and can allow, prevent, or impede actions—for instance, you cannot read a spell if the room has been made **Pitch Black**. It can also be invoked (**page XX**) or compelled (**page XX**). In addition, creating an advantage gives you one or more **free invokes** of the created aspect. A free invoke, as the name suggests, lets you invoke an aspect without spending a fate point. You can even let your allies use free invokes you have created.
 
@@ -476,7 +476,7 @@ Ethan cobbles together the Molotov and tosses it at the beast. The shoggoth is n
 
 Attack to harm the enemy.
 
-The <a id="_idTextAnchor012"></a>**attack** action is how you try to take out an opponent—whether you’re looking to kill a loathsome monster, or knock out an innocent guard who doesn’t know the truth about what he’s guarding. An attack can be unloading with a machine gun, throwing a solid punch, or casting a baleful spell.
+The **attack** action is how you try to take out an opponent—whether you’re looking to kill a loathsome monster, or knock out an innocent guard who doesn’t know the truth about what he’s guarding. An attack can be unloading with a machine gun, throwing a solid punch, or casting a baleful spell.
 
 Keep in mind whether or not harming your target is even possible. Not every attack is equal. You can’t just punch a kaiju and hope to hurt it. Determine whether the attack even has a chance of being successful before you start rolling the dice. A number of powerful beings may have specific weaknesses that need to be exploited, or some means of defense you must get through before you can even begin to hurt them.
 
@@ -522,7 +522,7 @@ Other skills may gain permission to attack or defend under special circumstances
 
 # Aspects and Fate Points
 
-<a id="_idTextAnchor013"></a>An **aspect** is a word or phrase that describes something special about a person, place, thing, situation, or group. Almost anything you can think of can have aspects. A person might have a reputation as the **Greatest Sharpshooter in the Wasteland** (see below for more about these kinds of aspects). A room might be **On Fire** after you knock over an oil lamp. After an encounter with a monster, you might be **Terrified**. Aspects let you change the story in ways that go along with your character’s tendencies, skills, or problems.
+An **aspect** is a word or phrase that describes something special about a person, place, thing, situation, or group. Almost anything you can think of can have aspects. A person might have a reputation as the **Greatest Sharpshooter in the Wasteland** (see below for more about these kinds of aspects). A room might be **On Fire** after you knock over an oil lamp. After an encounter with a monster, you might be **Terrified**. Aspects let you change the story in ways that go along with your character’s tendencies, skills, or problems.
 
 ## Aspects Are Always True
 
@@ -558,7 +558,7 @@ These aspects represent injuries or other lasting trauma taken by absorbing a hi
 
 ### Boosts
 
-A <a id="_idTextAnchor014"></a>**boost** is a special kind of aspect, representing an extremely temporary or minor situation. You cannot compel a boost or spend a fate point to invoke it. You may invoke it once for free, after which it vanishes. An unused boost vanishes when the advantage it represents no longer exists, which may be a few seconds or the duration of a single action. They never persist beyond the end of a scene, and you can hold off naming one until you’re using it. If you’re in control of a boost, you may pass it to an ally if there’s rationale for it.
+A **boost** is a special kind of aspect, representing an extremely temporary or minor situation. You cannot compel a boost or spend a fate point to invoke it. You may invoke it once for free, after which it vanishes. An unused boost vanishes when the advantage it represents no longer exists, which may be a few seconds or the duration of a single action. They never persist beyond the end of a scene, and you can hold off naming one until you’re using it. If you’re in control of a boost, you may pass it to an ally if there’s rationale for it.
 
 **Examples:** **In My Sights; Distracted; Unstable Footing**
 
@@ -572,7 +572,7 @@ Remember, each session, you also start with fate points at least equal to your *
 
 ### Invokes
 
-To unlock the true power of aspects and make them help you, you’ll need to spend <a id="_idTextAnchor015"></a>**fate points** to <a id="_idTextAnchor016"></a>**invoke** them during dice rolls (**page XX**). Keep track of your fate points with pennies or glass beads or poker chips or some other tokens.
+To unlock the true power of aspects and make them help you, you’ll need to spend **fate points** to **invoke** them during dice rolls (**page XX**). Keep track of your fate points with pennies or glass beads or poker chips or some other tokens.
 
 You can also invoke aspects for free, _if_ you have a free invoke from you or an ally creating an advantage you can use (**page XX**).
 
@@ -584,7 +584,7 @@ Ryan says, “So I’m trying to decipher the runes and...” (rolls the dice, h
 
 #### Hostile Invocations
 
-Most of the time an aspect is invoked, it’s a character aspect or a situation aspect. Sometimes you’ll invoke enemies’ character aspects _against_ them. This is called a <a id="_idTextAnchor017"></a>**hostile invocation**, and it works just like invoking any other aspect—pay a fate point and get a +2 to your roll or reroll the dice. There’s one small difference—**when you make a hostile invocation, you give the fate point to the enemy.** But they don’t get to use the fate point until after the scene is over. This payout only applies when a fate point is actually spent on a hostile invocation. Free invokes do not trigger a payout.
+Most of the time an aspect is invoked, it’s a character aspect or a situation aspect. Sometimes you’ll invoke enemies’ character aspects _against_ them. This is called a **hostile invocation**, and it works just like invoking any other aspect—pay a fate point and get a +2 to your roll or reroll the dice. There’s one small difference—**when you make a hostile invocation, you give the fate point to the enemy.** But they don’t get to use the fate point until after the scene is over. This payout only applies when a fate point is actually spent on a hostile invocation. Free invokes do not trigger a payout.
 
 #### Invoking to Declare Story Details
 
@@ -592,7 +592,7 @@ You may spend a fate point to add an important or unlikely detail to the story b
 
 ### Compels
 
-Aspects can be <a id="_idTextAnchor018"></a>**compelled** to complicate the situation and earn fate points. To compel an aspect, the GM or a player offers a fate point to the player whose character is being compelled, and tells them why an aspect is making things more difficult or complicated. If you refuse the compel, you must spend a fate point from your own supply and describe how your character avoids the complication. Yes, this means that if you don’t have any fate points, you can’t refuse a compel!
+Aspects can be **compelled** to complicate the situation and earn fate points. To compel an aspect, the GM or a player offers a fate point to the player whose character is being compelled, and tells them why an aspect is making things more difficult or complicated. If you refuse the compel, you must spend a fate point from your own supply and describe how your character avoids the complication. Yes, this means that if you don’t have any fate points, you can’t refuse a compel!
 
 **Any aspect can be compelled**—whether it’s a character aspect, situation aspect, or consequence—but it must be something that affects the character being compelled.
 
@@ -610,7 +610,7 @@ When offering a compel, make sure that the complication is a course of action or
 
 “You know, curse your luck, I think that the sand in your eyes means you can’t really see anything. Your shots at the shoggoth go wild, puncturing a few barrels that are now gushing gasoline toward the fire pit.” This is a much better compel. It changes the scene, ratchets up the tension, and gives the players something new to think about.
 
-For some ideas about what does and doesn’t work as a compel, check out the discussion of types of compels found in _Fate Core System_ starting on page 72 of that book, or online at: <a href="">_https://fate-srd.com/fate-core/invoking-compelling-aspects#types-of-compels_</a>
+For some ideas about what does and doesn’t work as a compel, check out the discussion of types of compels found in _Fate Core System_ starting on page 72 of that book, or online at: _https://fate-srd.com/fate-core/invoking-compelling-aspects#types-of-compels_
 
 #### Events and Decisions
 
@@ -704,7 +704,7 @@ A mentioned on **page XX**, Some situation aspects might apply to specific zones
 
 ### Turn Order
 
-Often, you won’t need to know who is acting precisely when, but in contests and conflicts turn order can become important. These scenes take place over a series of <a id="_idTextAnchor019"></a>**exchanges**. In an exchange, each involved character can take one overcome, create an advantage, or attack action, and can move once. (Contests work slightly differently; see **page XX**.) Because defending is a reaction to someone else’s action, characters can defend as many times as they need to during other characters’ turns, so long as they can justify their ability to interfere based on what’s already been established in the story.
+Often, you won’t need to know who is acting precisely when, but in contests and conflicts turn order can become important. These scenes take place over a series of **exchanges**. In an exchange, each involved character can take one overcome, create an advantage, or attack action, and can move once. (Contests work slightly differently; see **page XX**.) Because defending is a reaction to someone else’s action, characters can defend as many times as they need to during other characters’ turns, so long as they can justify their ability to interfere based on what’s already been established in the story.
 
 At the start of a scene, the GM and players decide who goes first based on the situation, then the active player picks who goes next. The GM’s characters are selected in the turn order just like the PCs, with the GM deciding who goes next after the NPCs have acted. After everyone has taken a turn, the last player picks who goes next at the start of the next exchange.
 
@@ -762,15 +762,15 @@ Conflicts can be physical or mental. Physical conflicts can be shoot-outs, sword
 
 ### Taking Harm
 
-<a id="_idTextAnchor020"></a>When an attack is successful, the defender must absorb the hit, which has shifts equal to the difference between the attack’s effort and defense’s effort.
+When an attack is successful, the defender must absorb the hit, which has shifts equal to the difference between the attack’s effort and defense’s effort.
 
 You can absorb shifts of a hit by marking stress boxes and by taking consequences. If you can’t or don’t absorb all of the shifts, you are **taken out** (**page XX**)—you’re removed from the scene, and the attacker decides how it plays out.
 
-A series of regrettable decisions has put Charles in a dank basement, confronting a ghoul that very much wants to eat him. The ghoul attacks, lunging with its sharp claws; this is an attack using its Fair (+2) Fight. The GM rolls <dice>[0][0][+][+]</dice>, bringing the effort up to Great (+4). Charles tries to leap out of the way with his Good (+3) Athletics, but rolls <dice>[0][0][0][-]</dice>, taking his effort down to Fair (+2). Because the ghoul’s attack effort was two steps higher than Charles’s defense effort, Charles must absorb two shifts. He marks the first two of his three physical stress boxes; already the fight is proving dangerous.
+> A series of regrettable decisions has put Charles in a dank basement, confronting a ghoul that very much wants to eat him. The ghoul attacks, lunging with its sharp claws; this is an attack using its Fair (+2) Fight. The GM rolls <dice>[0][0][+][+]</dice>, bringing the effort up to Great (+4). Charles tries to leap out of the way with his Good (+3) Athletics, but rolls <dice>[0][0][0][-]</dice>, taking his effort down to Fair (+2). Because the ghoul’s attack effort was two steps higher than Charles’s defense effort, Charles must absorb two shifts. He marks the first two of his three physical stress boxes; already the fight is proving dangerous.
 
 #### Stress
 
-Simply put, <a id="_idTextAnchor021"></a>**stress** is plot armor. It’s a resource used to keep your character up and in the fight when their foes hit them. When you mark stress boxes to absorb a hit, you’re saying things like, “That _just_ missed me,” or “Whoa, that knocked the wind out of me but I’m okay.” That said, it’s a limited resource—most characters only have three boxes for physical stress and three boxes for mental stress, though characters with high Will or Physique have more.
+Simply put, **stress** is plot armor. It’s a resource used to keep your character up and in the fight when their foes hit them. When you mark stress boxes to absorb a hit, you’re saying things like, “That _just_ missed me,” or “Whoa, that knocked the wind out of me but I’m okay.” That said, it’s a limited resource—most characters only have three boxes for physical stress and three boxes for mental stress, though characters with high Will or Physique have more.
 
 You’ll find two **stress tracks** on your character sheet, one for physical harm and one for mental harm. When you take a hit, you can mark empty stress boxes of the appropriate type to absorb it and stay in the fight. Each stress box you mark absorbs one shift. You can mark multiple stress boxes if you need to.
 
@@ -778,7 +778,7 @@ The boxes are binary—either they’re empty and can be used or they’re full 
 
 #### Consequences
 
-**<a id="_idTextAnchor022"></a>Consequences** are new aspects you write on your character sheet when your character takes a hit, representing the real harm and injury your character suffers.
+**Consequences** are new aspects you write on your character sheet when your character takes a hit, representing the real harm and injury your character suffers.
 
 When you take a consequence to absorb a hit, write an aspect in an empty consequence slot that describes what harm befalls your character. Use the severity of the consequence as a guide: If you were bitten by star spawn, a mild consequence might be **Nasty Bite**, but a moderate consequence could be **Bite That Won’t Stop Bleeding**, and a severe consequence might be **Crippled Leg**.
 
@@ -790,11 +790,11 @@ So, if you take a big five-shift hit, you can absorb the whole thing with a sing
 
 The downside to consequences is that they are aspects—and aspects are always true (**page XX**). So if you’ve got **Gut Shot**, your character’s gut is shot! That will mean you can’t do things a gut-shot person can’t do (like run fast). If things get particularly complicated due to this, you might even face a compel on your consequence, too. And, just like the aspects you make when you create an advantage, the character that created the consequence—that is, whoever shot you—gets one free invoke on that consequence. Ouch!
 
-Charles is still battling the ghoul. It claws at him, this time rolling a <dice>[0][0][+][+]</dice>, adding its Fair (+2) Fight, and invokes its **Hungry for Flesh** aspect for an additional +2, adding up to a devastating Fantastic (+6) blow. Charles’s <dice>[-][-][0][0]</dice>, added to his Good (+3) Athletics, gives him a merely Average (+1) defense; that’s five shifts he needs to absorb. He chooses to take a moderate consequence. His player and the GM decide that the ghoul gave Charles a **Gaping Chest Wound**. This consequence absorbs four of the shifts, leaving one, which Charles absorbs with his last remaining stress box.
+> Charles is still battling the ghoul. It claws at him, this time rolling a <dice>[0][0][+][+]</dice>, adding its Fair (+2) Fight, and invokes its **Hungry for Flesh** aspect for an additional +2, adding up to a devastating Fantastic (+6) blow. Charles’s <dice>[-][-][0][0]</dice>, added to his Good (+3) Athletics, gives him a merely Average (+1) defense; that’s five shifts he needs to absorb. He chooses to take a moderate consequence. His player and the GM decide that the ghoul gave Charles a **Gaping Chest Wound**. This consequence absorbs four of the shifts, leaving one, which Charles absorbs with his last remaining stress box.
 
 #### Getting Taken Out
 
-If you can’t absorb all the shifts of a hit with stress and consequences, you’re <a id="_idTextAnchor023"></a>**taken out**.
+If you can’t absorb all the shifts of a hit with stress and consequences, you’re **taken out**.
 
 Getting taken out is bad. Whoever took you out decides what happens. Given dangerous situations and powerful enemies, this could mean you’re dead, but that’s not the only possibility. The outcome must be in keeping with the scope and scale of the conflict at hand—you won’t die of shame if you lose an argument—but changes to your character sheet (and more) are possible. The outcome should also fit within the boundaries your group has established—if your group feels that characters should never get killed without the player’s consent, that’s perfectly valid.
 
@@ -802,13 +802,13 @@ But even when death is on the table (it’s best to be clear about that before a
 
 Follow the fiction when describing how someone—or something—is taken out. Was a cultist taken out by a barrage of machine gun fire? A spray of red fills the air as they slump with a wet thump to the ground. Were you hurled from the truck as it crossed the 26th Street overpass? You disappear over the edge and are left behind as the conflict rumbles on along the Dan Ryan. Keep death in mind when discussing the terms of being taken out, but often it’s just as interesting to cheat death.
 
-The ghoul gets in a very lucky hit, dealing a Legendary (+8) attack against Charles’s Poor (-1) defense. By this point in the conflict, all of Charles’s stress boxes are full, as is his moderate consequence slot. Even if he were to take a mild and a severe consequence at once, absorbing eight shifts, it wouldn’t be enough. As a result, Charles is taken out. The ghoul gets to decide his fate. The GM would be within their rights to have the ghoul kill Charles then and there…but getting killed isn’t the most interesting result.
-
-Instead, the GM declares that Charles survives, getting knocked out and dragged to the ghoul’s lair, consequences intact. Charles will wake up lost and very fragile in the pitch-dark catacombs beneath the city. Because he was taken out, Charles has no choice but to accept the terms laid before him.
+> The ghoul gets in a very lucky hit, dealing a Legendary (+8) attack against Charles’s Poor (-1) defense. By this point in the conflict, all of Charles’s stress boxes are full, as is his moderate consequence slot. Even if he were to take a mild and a severe consequence at once, absorbing eight shifts, it wouldn’t be enough. As a result, Charles is taken out. The ghoul gets to decide his fate. The GM would be within their rights to have the ghoul kill Charles then and there…but getting killed isn’t the most interesting result.
+>
+> Instead, the GM declares that Charles survives, getting knocked out and dragged to the ghoul’s lair, consequences intact. Charles will wake up lost and very fragile in the pitch-dark catacombs beneath the city. Because he was taken out, Charles has no choice but to accept the terms laid before him.
 
 #### Conceding
 
-So how do you keep from dying horribly—or worse? You can interrupt any action in a conflict to <a id="_idTextAnchor024"></a>**concede** as long as the dice haven’t hit the table yet. Just give in. Tell everyone that you’re done, that you can’t keep going. Your character loses and exits the conflict, but **you gain a fate point** plus an extra one for each consequence they took in the current conflict.
+So how do you keep from dying horribly—or worse? You can interrupt any action in a conflict to **concede** as long as the dice haven’t hit the table yet. Just give in. Tell everyone that you’re done, that you can’t keep going. Your character loses and exits the conflict, but **you gain a fate point** plus an extra one for each consequence they took in the current conflict.
 
 Also, concession means _you_ declare the terms of your loss and how you exit the conflict. You can escape the monsters and live to fight another day. It is a loss, though. You’ll have to give your foe something they want. You can’t concede and describe how you heroically save the day—that’s not on the table anymore.
 
@@ -844,7 +844,7 @@ As your characters muck about in the storyline, they’ll grow and change. At th
 
 ## Minor Milestones
 
-Minor <a id="_idTextAnchor025"></a>milestones happen at the end of a session, part of the way through dealing with a story arc. They are focused on adjusting your character laterally rather than advancing the character. You may not wish to use a minor milestone, which is fine. It doesn’t always make sense to change your character. The opportunity is there if you need it.
+Minor milestones happen at the end of a session, part of the way through dealing with a story arc. They are focused on adjusting your character laterally rather than advancing the character. You may not wish to use a minor milestone, which is fine. It doesn’t always make sense to change your character. The opportunity is there if you need it.
 
 During a minor milestone, you can do one of the following:
 
@@ -872,40 +872,51 @@ When improving a skill rating, you must maintain a “column” structure. Each 
 
 Ruth wants to increase her Lore from Average (+1) to Fair (+2), but this means she’d have four Fair (+2) skills and only three Average (+1)…that won’t do. Luckily, she has saved a second skill point from an earlier milestone, so she also increases her Mediocre (+0) Empathy to Average (+1). Now she has one Great (+4), two Good (+3), four Fair (+2), and four Average (+1) skills.
 
+<div class="pyramid">
+<div class="pyramid--item">
 
-Valid
+**The pyramid**
 
-+4|[0]
++4|<dice>[0]</dice>
 --|--
-+3|[0][0]
-+2|[0][0][0]
-+1|[0][0][0][0]
++3|<dice>[0][0]</dice>
++2|<dice>[0][0][0]</dice>
++1|<dice>[0][0][0][0]</dice>
 
+</div>
+<div class="pyramid--item">
 
-Not Valid
+**Not Valid**
 
-+4|[0]
++4|<dice>[0]</dice>
 --|--
-+3|[0][0]
-+2|[0][0][0][0]
-+1|[0][0][0]
++3|<dice>[0][0]</dice>
++2|<dice>[0][0][0][0]</dice>
++1|<dice>[0][0][0]</dice>
 
-Valid 
+</div>
+<div class="pyramid--item">
 
-+4|[0]
+**Valid** 
+
++4|<dice>[0]</dice>
 --|--
-+3|[0][0]
-+2|[0][0][0][0]
-+1|[0][0][0][0]
++3|<dice>[0][0]</dice>
++2|<dice>[0][0][0][0]</dice>
++1|<dice>[0][0][0][0]</dice>
 
-Also Valid
+</div>
+<div class="pyramid--item">
 
-+4|[0]
+**Also Valid**
+
++4|<dice>[0]</dice>
 --|--
-+3|[0][0][0]
-+2|[0][0][0]
-+1|[0][0][0]
-
++3|<dice>[0][0][0]</dice>
++2|<dice>[0][0][0]</dice>
++1|<dice>[0][0][0]</dice>
+</div>
+</div>
 
 
 ## Sessions and Arcs
@@ -982,9 +993,9 @@ Like minor NPCs, monsters and other threats (like a storm, a spreading fire, or 
 
 ## Your Fate Points
 
-At the start of each scene, begin with a <a id="_idTextAnchor026"></a>pool of fate points equal to the number of PCs. If the scene includes a major NPC or monster that conceded (**page XX**) a previous conflict, or received hostile invokes (**page XX**) in a previous scene, those fate points are added to your pool. If you received a compel in the prior scene that ended that scene, giving you no opportunity to spend the earned fate point, you may add that point to your pool as well.
+At the start of each scene, begin with a pool of fate points equal to the number of PCs. If the scene includes a major NPC or monster that conceded (**page XX**) a previous conflict, or received hostile invokes (**page XX**) in a previous scene, those fate points are added to your pool. If you received a compel in the prior scene that ended that scene, giving you no opportunity to spend the earned fate point, you may add that point to your pool as well.
 
-Charles, Ruth, Cassandra, and Ethan are headed for the final confrontation with Alice Westforth. Previously, she escaped from the heroes by conceding a conflict after she had taken a moderate consequence. That means the GM gets four fate points for the PCs and two more that Alice is bringing along.
+> Charles, Ruth, Cassandra, and Ethan are headed for the final confrontation with Alice Westforth. Previously, she escaped from the heroes by conceding a conflict after she had taken a moderate consequence. That means the GM gets four fate points for the PCs and two more that Alice is bringing along.
 
 As the GM, you can spend fate points from this pool to invoke aspects, refuse compels that the players offer NPCs, and use any NPC stunts that require you to—all exactly as the players do.
 
@@ -1062,7 +1073,7 @@ If a player is comfortable making quick creative decisions in the moment, they m
 
 With this method, characters start with only a name, high concept aspect, and highest skill—if that! As play progresses and they are called on to use an unrated skill, they can choose an empty slot and reveal their knowledge of it in the moment. Similarly, aspects and stunts can be filled in when the circumstances that call for them, right in the moment a fate point is spent or a bonus claimed.
 
-## <a id="_idTextAnchor027"></a>Countdowns
+## Countdowns
 
 A countdown adds urgency to an adversary or situation: deal with it now or things will get worse. Whether you’re talking about a ticking bomb, a ritual near completion, a bus teetering on the edge of a suspension bridge, or a soldier with a radio who’s about to call in reinforcements, countdowns force the PCs to act quickly or face a worse outcome.
 
@@ -1205,7 +1216,7 @@ Frequent and rigid application of scale rules may put player characters at a dis
 
 ### Aspects and Scale
 
-<a id="_idTextAnchor028"></a>Active situation aspects sometimes represent a supernatural effect. In these cases, the GM may determine that invoking the aspect grants the additional benefit of its scale. Furthermore, a supernaturally created aspect can justify scale on some actions even without an invoke, such as in the case of a veil or high-tech camouflage suit; you need not invoke **Veiled** to gain Supernatural scale when sneaking about.
+Active situation aspects sometimes represent a supernatural effect. In these cases, the GM may determine that invoking the aspect grants the additional benefit of its scale. Furthermore, a supernaturally created aspect can justify scale on some actions even without an invoke, such as in the case of a veil or high-tech camouflage suit; you need not invoke **Veiled** to gain Supernatural scale when sneaking about.
 
 #### Does Scale Apply When Supernaturally Creating an Advantage?
 

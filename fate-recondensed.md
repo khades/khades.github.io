@@ -1,6 +1,8 @@
-# Fate Condensed
+# Fate RE-Condensed
 
 Fate Condensed ©2020 Evil Hat Productions, LLC.
+
+![powered_by_fate](./powered_by_fate.png)
 
 Refer to the licensing pages at [http://www.faterpg.com/licensing](http://www.faterpg.com/licensing/) for details.
 
@@ -8,13 +10,33 @@ This is the System Reference Document for use with the Creative Commons Attribut
 
 This work is based on Fate Condensed (found at http://www.faterpg.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by PK Sullivan, Ed Turner, Leonard Balsera, Fred Hicks, Richard Bellingham, Robert Hanz, Ryan Macklin, and Sophie Lagacé, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
 
+## Licensing
+
+In one form or another, Fate has always been open-licensable. You can find details about licensing Fate for your projects at [http://www.faterpg.com/licensing](http://www.faterpg.com/licensing)
+
+The Fate Core font is © Evil Hat Productions, LLC and is used with permission. The Four Actions icons were designed by Jeremy Keller.
+
+## Credits
+
+Fate Condensed by PK Sullivan, Ed Turner, and Fred Hicks. Additional development by Richard Bellingham, Robert Hanz, and Sophie Lagacé.
+
+Based on prior works by Rob Donoghue, Fred Hicks, Leonard Balsera, Ryan Macklin, Clark Valentine, Mike Olson, Brian Engard, and Sophie Lagacé.
+
+Based on Fate Core System by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, and Mike Olson and Fate Accelerated Edition by Clark Valentine.
+
+Turn order system based on “Accidentally Designing Marvel’s Action Order System,” written by Fred Hicks and describing a variation on a method originally devised by Leonard Balsera.
+
+Portions of this work are based on Fateful Concepts: Hacking Contests by Ryan Macklin, licensed for our use under the Creative Commons Attribution 3.0 Unported license.
+
+
+
+# Getting Started
+
 ## What Do I Need to Play?
 
 To play _Fate Condensed_ you’ll need two to six friends with one acting as Game Master (GM), some dice, some tokens, writing implements, paper, and something to write short notes on (_e.g.,_ small “sticky notes”).
 
 _Fate Condensed_ uses **Fate Dice™** when characters take action. Fate dice are six-sided dice with two <dice>[0]</dice> sides, two <dice>[+]</dice> sides, and two <dice>[-]</dice> sides. One set of four dice will work fine, but one set per player is ideal. Other alternatives exist, such as using standard six-sided dice (1-2 = <dice>[-]</dice>, 3-4 = <dice>[0]</dice>, 5-6 = <dice>[+]</dice>), or the **Deck of Fate**, which uses cards instead of dice. We use the word “roll” throughout the text for simplicity.
-
-# Getting Started
 
 ## Define Your Setting
 
@@ -107,6 +129,28 @@ Rating | Adjective
 
 #### Skill List
 
+Descriptions for these skills are found below.
+
+*   **Academics**
+*   **Athletics**
+*   **Burglary**
+*   **Contacts**
+*   **Crafts**
+*   **Deceive**
+*   **Drive**
+*   **Empathy**
+*   **Fight**
+*   **Investigate**
+*   **Lore**
+*   **Notice**
+*   **Physique**
+*   **Provoke**
+*   **Rapport**
+*   **Resources**
+*   **Shoot**
+*   **Stealth**
+*   **Will**
+
 **Academics:** Mundane, everyday human knowledge and education, including history, sciences, and medicine. Academics stunts often refer to specialized areas of knowledge and medical skills.
 
 **Athletics:** A measurement of physical potential. Athletics stunts focus on movement—running, jumping, parkour—and dodging attacks.
@@ -119,6 +163,7 @@ Rating | Adjective
 
 **Deceive:** Ability to lie and cheat convincingly and with aplomb. Deceive stunts might improve your ability to tell a particular breed of lie or help invent false identities.
 
+<div class="pb"></div>
 **Drive:** Controlling vehicles under the most grueling circumstances, pulling wicked maneuvers, and simply getting the most out of your ride. Drive stunts can be signature maneuvers, a special vehicle of your own, or the ability to use Drive in place of a skill like Burglary or Academics under certain circumstances.
 
 **Empathy:** Ability to accurately judge someone’s mood and intentions. Empathy stunts can be about judging a crowd, picking up on lies, or helping others recover from mental consequences.
@@ -143,7 +188,9 @@ Rating | Adjective
 
 **Stealth:** Staying unseen or unheard and escaping when you need to hide. Stealth stunts let you vanish in plain sight, blend into crowds, or advance through shadows unseen.
 
+<div class="pb"></div>
 **Will:** Mental fortitude, the ability to overcome temptation and to withstand trauma. Will stunts let you ignore mental consequences, withstand the mental agony of strange powers, and hold steady against enemies who provoke you. In addition, a high Will rating gives you more mental stress or consequence slots (**page XX**).
+
 
 #### Alternative Skill Lists
 
@@ -154,9 +201,16 @@ When building your own implementation of Fate, the first thing to think about is
 *   Skill ratings in Fate are structured to support character niches. That’s why, in the default, players start with a “pyramid” shape. Make sure niche protection is possible in whatever new list you create.
 *   The best starting skill should come in around Great (+4). You can alter this up or down as you see fit, but make sure to keep an eye on what that means for the difficulty and opposing skill ratings your PCs will face.
 
-__Fred decides he wants to do a space-faring Fate game with a shorter skill list that’s focused on action-words. He settles on this 9-item skill list: Fight, Know, Move, Notice, Pilot, Sneak, Speak, Tinker, and Will. He also likes the idea of a “diamond” shape for skill ratings rather than a pyramid, so he has players rate their starting skills as follows: 1 at Great (+4), 2 at Good (+3), 3 at Fair (+2), 2 at Average (+1), and 1 at Mediocre (+0). His PCs will have a lot of overlap and core competencies due to the fat middle of his diamond, while still enjoying some niche protections at the top of the diamond’s “point.”__
+> Fred decides he wants to do a space-faring Fate game with a shorter skill list that’s focused on action-words. He settles on this 9-item skill list: Fight, Know, Move, Notice, Pilot, Sneak, Speak, Tinker, and Will. He also likes the idea of a “diamond” shape for skill ratings rather than a pyramid, so he has players rate their starting skills as follows: 1 at Great (+4), 2 at Good (+3), 3 at Fair (+2), 2 at Average (+1), and 1 at Mediocre (+0). His PCs will have a lot of overlap and core competencies due to the fat middle of his diamond, while still enjoying some niche protections at the top of the diamond’s “point.”
 
 If you’re considering making your own skill list for your game and are looking for some ideas to kick-start your imagination, see **page XX.**
+
+## Character Creation As You Play
+
+If a player is comfortable making quick creative decisions in the moment, they may enjoy creating characters _as they play_ rather than ahead of time. This mimics the way characters reveal themselves and develop in other media. It’s not for everyone, but for groups where the method clicks it can be a real crowd-pleaser.
+
+With this method, characters start with only a name, high concept aspect, and highest skill—if that! As play progresses and they are called on to use an unrated skill, they can choose an empty slot and reveal their knowledge of it in the moment. Similarly, aspects and stunts can be filled in when the circumstances that call for them, right in the moment a fate point is spent or a bonus claimed.
+
 
 ### Refresh
 
@@ -164,7 +218,7 @@ Your **refresh** is the minimum number of **fate points** (**page XX**) your cha
 
 Each session, you start with fate points at least equal to your refresh. Be sure to keep track of the fate points you have left at the end of each session of play—if you have more fate points than your refresh, you’ll start the next session with the fate points you ended this session with.
 
-Charles earned a lot of fate points during today’s session, ending it with 5 fate points. His refresh is 2, so Charles will start the next session with 5 fate points. But Ethan ends the same session with just one fate point. His refresh is 3, so he’ll begin the next session with 3 fate points, not just the one he had left over.
+> Charles earned a lot of fate points during today’s session, ending it with 5 fate points. His refresh is 2, so Charles will start the next session with 5 fate points. But Ethan ends the same session with just one fate point. His refresh is 3, so he’ll begin the next session with 3 fate points, not just the one he had left over.
 
 ### Stunts
 
@@ -207,10 +261,10 @@ Your rating in Physique affects how many total physical stress boxes you have. W
 
 Physique/Will |Physical/Mental Stress
 -|-
-Mediocre (+0)|**[1][1][1]**
-Average (+1) or Fair (+2)}|**[1][1][1] [1]**
-Good (+3) or Great (+4)|**[1][1][1] [1][1][1]**
-Superb (+5) and higher| **[1][1][1] [1][1][1]** and a second mild consequence slot specifically for physical or mental hits
+Mediocre (+0)|<dice>**[1][1][1]**</dice>
+Average (+1) or Fair (+2)}|<dice>**[1][1][1] [1]**</dice>
+Good (+3) or Great (+4)|<dice>**[1][1][1] [1][1][1]**</dice>
+Superb (+5) and higher| <dice>**[1][1][1] [1][1][1]**</dice> and a second mild consequence slot specifically for physical or mental hits
 
 
 You’ll learn how stress and consequences work during play in _“Taking Harm”_ (**page XX**).
@@ -264,6 +318,7 @@ When an aspect could justifiably help your efforts, describe how it helps and sp
 
 You have two options when your invoke looks bogus. First, you can retract your invoke and try something else, maybe a different aspect. Second, you can have a quick discussion about why you think the aspect fits. If the person still isn’t convinced, retract the invoke and move on. If they come around to your perspective, go ahead with the invoke as usual. The bogus rule is in here to help everyone at the table have a good time. Use it when something doesn’t sound right, make sense, or fit the tone. Someone invoking **Great at First Impressions** to throw a car is likely bogus. But maybe that character has a supernatural stunt that makes them incredibly strong, strong enough to plausibly throw a car, and this is their opening gambit in a fight with a horrible monster. In that case, maybe **Great at First Impressions** is plausible.
 
+<div class="pb"></div>
 When you invoke an aspect, you can either **gain a +2 bonus** to your roll or **reroll all four dice**, or you can add 2 to the difficulty of someone else’s roll, if justifiable. You can invoke multiple aspects on the same roll, but you can’t invoke the same aspect multiple times on the same roll. There is one exception: you can spend as many _free invokes_ on an aspect as you like on the same roll.
 
 Most often you’ll invoke one of your character aspects, but sometimes you’ll invoke a situation aspect or even make a hostile invocation of another character’s aspect (**page XX**).
@@ -287,7 +342,7 @@ Whenever you roll dice, the difference between your effort and the target diffic
 
 Some outcomes are obviously better for you than others, but all of them should advance the story in interesting ways. You started with fiction first (**page XX**); make sure you end with it too, to maintain focus on the story, and to ensure you interpret the results in a way that fits the fiction.
 
-Ethan isn’t an adept safe-cracker (though he has the tools), and yet he’s in a sinister cult’s guarded secret headquarters, with a steel door between him and the ritual book he desperately needs. Can he get in?
+> Ethan isn’t an adept safe-cracker (though he has the tools), and yet he’s in a sinister cult’s guarded secret headquarters, with a steel door between him and the ritual book he desperately needs. Can he get in?
 
 ### Failure
 
@@ -299,19 +354,19 @@ This can play out in a few ways: simple failure, success at a major cost, or tak
 
 The first is the easiest to understand—**simple failure**. You don’t accomplish your goal, don’t make any progress, and are left wanting. Ensure this keeps the story moving—simply failing to crack the safe is stagnant and boring.
 
-Ethan pulls the handle triumphantly, but the safe remains resolutely closed while the alarms begin to blare. Failure has changed the situation and driven the story forward—now there are guards on the way. Ethan is faced with a new choice—try another way of opening the safe, now that subtlety is out the window, or cut his losses and run?
+> Ethan pulls the handle triumphantly, but the safe remains resolutely closed while the alarms begin to blare. Failure has changed the situation and driven the story forward—now there are guards on the way. Ethan is faced with a new choice—try another way of opening the safe, now that subtlety is out the window, or cut his losses and run?
 
 #### Success at a major cost
 
 Second is <a id="_idTextAnchor007"></a>**success at a major cost**. You do what you set out to do, but there’s a significant price to be paid—the situation gets worse or more complicated. GM, you can either declare this is the result or can offer it in place of failure. Both options are good and useful in different situations.
 
-Ethan fails his roll and the GM says, “You hear the click of the last tumbler falling into place. It’s echoed by the click of the hammer on a revolver as the guard tells you to put your hands in the air.” The major cost here is the confrontation with a guard he’d hoped to avoid.
+> Ethan fails his roll and the GM says, “You hear the click of the last tumbler falling into place. It’s echoed by the click of the hammer on a revolver as the guard tells you to put your hands in the air.” The major cost here is the confrontation with a guard he’d hoped to avoid.
 
 #### Take a Hit
 
 Lastly, you may **take a hit**, which you’ll need to absorb with stress or consequences, or suffer some other drawback. This sort of failure is most common when defending against attacks or overcoming dangerous obstacles. This is different from a simple failure because the character alone, not necessarily the whole group, is affected. It’s also different from success at a major cost, in that success isn’t necessarily on the table.
 
-Ethan is able to get the safe door open, but as he grasps the handle, he feels a jab in the back of his hand. He couldn’t disable the trap! He writes down the mild consequence **Poisoned**.
+> Ethan is able to get the safe door open, but as he grasps the handle, he feels a jab in the back of his hand. He couldn’t disable the trap! He writes down the mild consequence **Poisoned**.
 
 You can mix these options together: Harmful failure can be harsh but appropriate in the moment. Success at the cost of harm is certainly an option.
 
@@ -325,13 +380,13 @@ Just like failure, ties should move the story forward, never stymie the action. 
 
 The first is <a id="_idTextAnchor008"></a>**success at a minor cost**—a few points of stress, story details about difficulty or complication but aren’t hindrances themselves, and a boost (**page XX**) to the enemy are all minor costs.
 
-Ethan’s first few attempts all fail. By the time he actually gets the door open, dawn has broken, and escape under cover of darkness is impossible. He got what he needed, but his situation is worse now.
+> Ethan’s first few attempts all fail. By the time he actually gets the door open, dawn has broken, and escape under cover of darkness is impossible. He got what he needed, but his situation is worse now.
 
 #### Partial Success
 
 The other way to handle a tie is **partial success**—you succeeded but only got some of what you wanted.
 
-Ethan can only open the safe door a crack—if the door opens more than an inch, the alarm will sound, and he can’t figure out how to disengage that. He manages to pull a couple pages of the ritual out through the narrow gap, but he’ll have to guess at the final steps.
+> Ethan can only open the safe door a crack—if the door opens more than an inch, the alarm will sound, and he can’t figure out how to disengage that. He manages to pull a couple pages of the ritual out through the narrow gap, but he’ll have to guess at the final steps.
 
 ### Success
 
@@ -339,7 +394,7 @@ If your effort is one or two more than the target, you succeed.
 
 You get what you want with no additional cost.
 
-Opened! Ethan grabs the ritual and leaves before the guards notice him.
+> Opened! Ethan grabs the ritual and leaves before the guards notice him.
 
 #### Applying “Fiction First” to Success
 
@@ -351,7 +406,7 @@ If your effort is three or more than the target, you succeed with style.
 
 You get what you want, and you get a bit more on top of that.
 
-Ethan is beyond lucky; the safe door opens almost instantly. Not only does he get the ritual, but he has enough time to poke through the other papers in the back of the safe. Amidst various ledgers and financial documents, he finds a map of the old Akeley mansion.
+> Ethan is beyond lucky; the safe door opens almost instantly. Not only does he get the ritual, but he has enough time to poke through the other papers in the back of the safe. Amidst various ledgers and financial documents, he finds a map of the old Akeley mansion.
 
 ## Actions
 
@@ -377,7 +432,7 @@ Your outcomes when overcoming are:
 *   **If you succeed,** you meet your goal and the story moves on without hiccups.
 *   **If you succeed with style,** it’s a success and you also get a boost.
 
-Charles has made his way to an Antarctic research facility. The buildings have been wrecked, and the occupants are missing. He wants to search the wreckage for clues. The GM tells him to roll Investigate against Fair (+2) difficulty. Charles gets <dice>[0][0][+][+]</dice> on the dice, plus his Average (+1) Investigate, for a Good (+3) effort. A success! The GM describes the clue he finds: footprints in the snow, made by creatures walking on many thin, inhuman legs.
+> Charles has made his way to an Antarctic research facility. The buildings have been wrecked, and the occupants are missing. He wants to search the wreckage for clues. The GM tells him to roll Investigate against Fair (+2) difficulty. Charles gets <dice>[0][0][+][+]</dice> on the dice, plus his Average (+1) Investigate, for a Good (+3) effort. A success! The GM describes the clue he finds: footprints in the snow, made by creatures walking on many thin, inhuman legs.
 
 Overcome actions are often used to determine whether a character can access or notice a particular fact or clue. Keep a close eye on those success-at-a-cost options when that’s the case. If missing a detail would cause your story to stall, take failure off the table, and focus on the cost instead.
 
@@ -405,11 +460,11 @@ With an existing known or unknown aspect the outcomes are:
 *   **If you succeed,** gain a free invoke on the aspect, revealing it if unknown.
 *   **If you succeed with style,** gain two free invokes, revealing it if unknown.
 
-Ethan is face-to-something with a shoggoth, a massive and tireless fleshy beast. He knows it’s too powerful to attack directly, so he decides his best bet is to distract it: “I’d like to make a Molotov cocktail and set this thing on fire!” he announces.
-
-The GM decides that actually hitting the shoggoth is trivial, so this is a Crafts roll—how quickly can he find and weaponize something flammable? The difficulty is set at Good (+3). Ethan has Average (+1) Crafts but rolls <dice>[0][+][+][+]</dice>, giving a Great (+4) effort.
-
-Ethan cobbles together the Molotov and tosses it at the beast. The shoggoth is now **On Fire**, and Ethan has one free invoke on that aspect. The shoggoth is definitely distracted, and if it does try to chase him, Ethan can use that invoke to help himself get away.
+>Ethan is face-to-something with a shoggoth, a massive and tireless fleshy beast. He knows it’s too powerful to attack directly, so he decides his best bet is to distract it: “I’d like to make a Molotov cocktail and set this thing on fire!” he announces.
+>
+>The GM decides that actually hitting the shoggoth is trivial, so this is a Crafts roll—how quickly can he find and weaponize something flammable? The difficulty is set at Good (+3). Ethan has Average (+1) Crafts but rolls <dice>[0][+][+][+]</dice>, giving a Great (+4) effort.
+>
+>Ethan cobbles together the Molotov and tosses it at the beast. The shoggoth is now **On Fire**, and Ethan has one free invoke on that aspect. The shoggoth is definitely distracted, and if it does try to chase him, Ethan can use that invoke to help himself get away.
 
 ### Attack
 
@@ -426,7 +481,7 @@ Your outcomes when attacking are:
 *   **If you succeed,** you deal a hit equal to the difference between your attack’s total and the defense’s effort. The defender must absorb this hit with stress or consequences, or else be taken out (**page XX**).
 *   **If you succeed with style,** you deal a hit just like a success, but you may reduce the shifts of the hit by one to get a boost.
 
-Ruth has stumbled across a corpse raised by arcane powers to fulfill some dark purpose. She decides to punch it. She has Great (+4) Fight but rolls <dice>[-][-][0][0]</dice>, giving a Fair (+2) effort.
+Ruth has stumbled across a corpse raised by arcane powers to fulfill some dark purpose. She decides to punch it. She has Great (+4) Fight but rolls <dice>[-][0][0][-]</dice>, giving a Fair (+2) effort.
 
 ### Defend
 
@@ -651,8 +706,6 @@ Cassandra and Ruth have stumbled across a small group of cultists, led by an aco
 
 Unfortunately, now that all the PCs in the scene have acted, Ruth has no choice but to pick one of the cultists to go next. She chooses the masked acolyte. The GM smiles, because they know that once the acolyte acts, she can have the cultists act until the end of the round, at which point they can choose the masked acolyte to start the next exchange. The PCs may have gotten a good first hit in, but now the cultists get to fight back.
 
-This method of determining turn order goes by several names in online discussion: elective action order, and “popcorn,” “handoff,” or “Balsera Style” initiative, the last one named after Fate Core author Leonard Balsera, who planted the seed of the idea. You can learn more about this method and its strategies at [https://www.deadlyfredly.com/2012/02/marvel/](https://www.deadlyfredly.com/2012/02/marvel/)
-
 ## Teamwork
 
 Fate offers three methods for teamwork: combining the same skill from multiple characters on a single roll, stacking free invokes by creating advantages to set up a team member for success, and invoking aspects on an ally’s behalf.
@@ -705,7 +758,7 @@ Conflicts can be physical or mental. Physical conflicts can be shoot-outs, sword
 
 You can absorb shifts of a hit by marking stress boxes and by taking consequences. If you can’t or don’t absorb all of the shifts, you are **taken out** (**page XX**)—you’re removed from the scene, and the attacker decides how it plays out.
 
-A series of regrettable decisions has put Charles in a dank basement, confronting a ghoul that very much wants to eat him. The ghoul attacks, lunging with its sharp claws; this is an attack using its Fair (+2) Fight. The GM rolls <dice>[0][0][+][+]</dice>, bringing the effort up to Great (+4). Charles tries to leap out of the way with his Good (+3) Athletics, but rolls <dice>[0][0][0][-]</dice>, taking his effort down to Fair (+2). Because the ghoul’s attack effort was two steps higher than Charles’s defense effort, Charles must absorb two shifts. He marks the first two of his three physical stress boxes; already the fight is proving dangerous.
+> A series of regrettable decisions has put Charles in a dank basement, confronting a ghoul that very much wants to eat him. The ghoul attacks, lunging with its sharp claws; this is an attack using its Fair (+2) Fight. The GM rolls <dice>[0][0][+][+]</dice>, bringing the effort up to Great (+4). Charles tries to leap out of the way with his Good (+3) Athletics, but rolls <dice>[0][0][0][-]</dice>, taking his effort down to Fair (+2). Because the ghoul’s attack effort was two steps higher than Charles’s defense effort, Charles must absorb two shifts. He marks the first two of his three physical stress boxes; already the fight is proving dangerous.
 
 #### Stress
 
@@ -729,7 +782,7 @@ So, if you take a big five-shift hit, you can absorb the whole thing with a sing
 
 The downside to consequences is that they are aspects—and aspects are always true (**page XX**). So if you’ve got **Gut Shot**, your character’s gut is shot! That will mean you can’t do things a gut-shot person can’t do (like run fast). If things get particularly complicated due to this, you might even face a compel on your consequence, too. And, just like the aspects you make when you create an advantage, the character that created the consequence—that is, whoever shot you—gets one free invoke on that consequence. Ouch!
 
-Charles is still battling the ghoul. It claws at him, this time rolling a <dice>[0][0][+][+]</dice>, adding its Fair (+2) Fight, and invokes its **Hungry for Flesh** aspect for an additional +2, adding up to a devastating Fantastic (+6) blow. Charles’s <dice>[-][-][0][0]</dice>, added to his Good (+3) Athletics, gives him a merely Average (+1) defense; that’s five shifts he needs to absorb. He chooses to take a moderate consequence. His player and the GM decide that the ghoul gave Charles a **Gaping Chest Wound**. This consequence absorbs four of the shifts, leaving one, which Charles absorbs with his last remaining stress box.
+> Charles is still battling the ghoul. It claws at him, this time rolling a <dice>[0][0][+][+]</dice>, adding its Fair (+2) Fight, and invokes its **Hungry for Flesh** aspect for an additional +2, adding up to a devastating Fantastic (+6) blow. Charles’s <dice>[-][-][0][0]</dice>, added to his Good (+3) Athletics, gives him a merely Average (+1) defense; that’s five shifts he needs to absorb. He chooses to take a moderate consequence. His player and the GM decide that the ghoul gave Charles a **Gaping Chest Wound**. This consequence absorbs four of the shifts, leaving one, which Charles absorbs with his last remaining stress box.
 
 #### Getting Taken Out
 
@@ -741,9 +794,9 @@ But even when death is on the table (it’s best to be clear about that before a
 
 Follow the fiction when describing how someone—or something—is taken out. Was a cultist taken out by a barrage of machine gun fire? A spray of red fills the air as they slump with a wet thump to the ground. Were you hurled from the truck as it crossed the 26th Street overpass? You disappear over the edge and are left behind as the conflict rumbles on along the Dan Ryan. Keep death in mind when discussing the terms of being taken out, but often it’s just as interesting to cheat death.
 
-The ghoul gets in a very lucky hit, dealing a Legendary (+8) attack against Charles’s Poor (-1) defense. By this point in the conflict, all of Charles’s stress boxes are full, as is his moderate consequence slot. Even if he were to take a mild and a severe consequence at once, absorbing eight shifts, it wouldn’t be enough. As a result, Charles is taken out. The ghoul gets to decide his fate. The GM would be within their rights to have the ghoul kill Charles then and there…but getting killed isn’t the most interesting result.
-
-Instead, the GM declares that Charles survives, getting knocked out and dragged to the ghoul’s lair, consequences intact. Charles will wake up lost and very fragile in the pitch-dark catacombs beneath the city. Because he was taken out, Charles has no choice but to accept the terms laid before him.
+>The ghoul gets in a very lucky hit, dealing a Legendary (+8) attack against Charles’s Poor (-1) defense. By this point in the conflict, all of Charles’s stress boxes are full, as is his moderate consequence slot. Even if he were to take a mild and a severe consequence at once, absorbing eight shifts, it wouldn’t be enough. As a result, Charles is taken out. The ghoul gets to decide his fate. The GM would be within their rights to have the ghoul kill Charles then and there…but getting killed isn’t the most interesting result.
+>
+>Instead, the GM declares that Charles survives, getting knocked out and dragged to the ghoul’s lair, consequences intact. Charles will wake up lost and very fragile in the pitch-dark catacombs beneath the city. Because he was taken out, Charles has no choice but to accept the terms laid before him.
 
 #### Conceding
 
@@ -755,6 +808,7 @@ Conceding is a powerful tool. You can concede to escape with an action plan for 
 
 You must concede before your opponent rolls the dice. You can’t wait to see the outcome of the dice and concede when it’s obvious you can’t win—that’s poor form.
 
+<div class="pb"></div>
 Some negotiation is expected, here. Look for a solution that works for everyone at the table. If the opposition isn’t on board with the terms of your concession, they can push for rewording those terms, or ask that you sacrifice something different or extra. Because a concession is still a loss for you, that does mean the other side should gain at least part of what they’re after.
 
 The more significant the cost you pay, the greater the benefit your side should receive as part of the concession—if certain doom is about to befall the entire group, one member choosing to concede as a heroic (and fatal) last stand could mean everyone else is spared!
@@ -811,25 +865,51 @@ When improving a skill rating, you must maintain a “column” structure. Each 
 
 Ruth wants to increase her Lore from Average (+1) to Fair (+2), but this means she’d have four Fair (+2) skills and only three Average (+1)…that won’t do. Luckily, she has saved a second skill point from an earlier milestone, so she also increases her Mediocre (+0) Empathy to Average (+1). Now she has one Great (+4), two Good (+3), four Fair (+2), and four Average (+1) skills.
 
+<div class="pyramid">
+<div class="pyramid--item">
 
-The pyramid
+**The pyramid**
 
-```
-Valid             Not valid                      
++4|<dice>[0]</dice>
+--|--
++3|<dice>[0][0]</dice>
++2|<dice>[0][0][0]</dice>
++1|<dice>[0][0][0][0]</dice>
 
-+4|[0]            +4|[0]
-+3|[0][0]         +3|[0][0]
-+2|[0][0][0]      +2|[0][0][0][0]
-+1|[0][0][0][0]   +1|[0][0][0]
+</div>
+<div class="pyramid--item">
 
-Valid             Also valid                      
+**Not Valid**
 
-+4|[0]            +4|[0]
-+3|[0][0]         +3|[0][0][0]
-+2|[0][0][0][0]   +2|[0][0][0]
-+1|[0][0][0][0]   +1|[0][0][0]
-```
++4|<dice>[0]</dice>
+--|--
++3|<dice>[0][0]</dice>
++2|<dice>[0][0][0][0]</dice>
++1|<dice>[0][0][0]</dice>
 
+</div>
+<div class="pyramid--item">
+
+**Valid** 
+
++4|<dice>[0]</dice>
+--|--
++3|<dice>[0][0]</dice>
++2|<dice>[0][0][0][0]</dice>
++1|<dice>[0][0][0][0]</dice>
+
+</div>
+<div class="pyramid--item">
+
+**Also Valid**
+
++4|<dice>[0]</dice>
+--|--
++3|<dice>[0][0][0]</dice>
++2|<dice>[0][0][0]</dice>
++1|<dice>[0][0][0]</dice>
+</div>
+</div>
 
 ## Sessions and Arcs
 
@@ -907,7 +987,7 @@ Like minor NPCs, monsters and other threats (like a storm, a spreading fire, or 
 
 At the start of each scene, begin with a <a id="_idTextAnchor026"></a>pool of fate points equal to the number of PCs. If the scene includes a major NPC or monster that conceded (**page XX**) a previous conflict, or received hostile invokes (**page XX**) in a previous scene, those fate points are added to your pool. If you received a compel in the prior scene that ended that scene, giving you no opportunity to spend the earned fate point, you may add that point to your pool as well.
 
-Charles, Ruth, Cassandra, and Ethan are headed for the final confrontation with Alice Westforth. Previously, she escaped from the heroes by conceding a conflict after she had taken a moderate consequence. That means the GM gets four fate points for the PCs and two more that Alice is bringing along.
+> Charles, Ruth, Cassandra, and Ethan are headed for the final confrontation with Alice Westforth. Previously, she escaped from the heroes by conceding a conflict after she had taken a moderate consequence. That means the GM gets four fate points for the PCs and two more that Alice is bringing along.
 
 As the GM, you can spend fate points from this pool to invoke aspects, refuse compels that the players offer NPCs, and use any NPC stunts that require you to—all exactly as the players do.
 
@@ -932,9 +1012,9 @@ These are a few optional or alternative rules you can decide to use in your game
 
 The _Fate Condensed_ version of conditions takes each consequence level and splits it into two conditions of half the value.
 
-**[1]** **Hurt** (Mild) **[1]** **Scared** (Mild)  
-**[2]** **Injured** (Moderate) **[2]** **Shaken** (Moderate)  
-**[3]** **Wounded** (Severe) **[3]** **Demoralized** (Severe)
+<dice>**[1]**</dice> **Hurt** (Mild) <dice>**[1]**</dice> **Scared** (Mild)  
+<dice>**[2]**</dice> **Injured** (Moderate) <dice>**[2]**</dice> **Shaken** (Moderate)  
+<dice>**[3]**</dice> **Wounded** (Severe) <dice>**[3]**</dice> **Demoralized** (Severe)
 
 These correspond to physical and mental states—but just because you’ve taken a physical hit doesn’t mean you can’t also mark a mental condition, and vice-versa, so long as it makes sense. Attacks are traumatic!
 
@@ -952,9 +1032,21 @@ If you would gain a mild consequence slot (from high Physique, Will, or a stunt)
 
 Several published Fate-based games use conditions instead of consequences. Feel free to adopt their implementation instead of this one if it better suits you. Each one achieves much the same purpose for the game: reducing pressure to figure out consequence aspects on the fly, and guiding the nature of the game by limiting the kinds of lasting harm characters can take.
 
+
+#### Alternative Skill Lists
+
+When building your own implementation of Fate, the first thing to think about is whether or not you’ll keep the same skill list. Often you can work with the one given, combining, changing, or splitting apart a few of the skills given. But it’s possible that the granularity of the default example skill list we’ve given above isn’t to your liking. Here are some things to think about.
+
+*   The default skill list has 19 skills in it, and players rate their characters above the Mediocre (+0) default in 10 of them. If you change the number of skills, you may want to change how the ratings are allocated.
+*   Our default skills are focused on answering the question “what can you do?”—but your list doesn’t need to follow in line with that. You might want a list focused on “What do you believe?”, the question “How do you do things?” (as with approaches in _Fate Accelerated_), job-roles in a crew of grifters and thieves, and so on.
+*   Skill ratings in Fate are structured to support character niches. That’s why, in the default, players start with a “pyramid” shape. Make sure niche protection is possible in whatever new list you create.
+*   The best starting skill should come in around Great (+4). You can alter this up or down as you see fit, but make sure to keep an eye on what that means for the difficulty and opposing skill ratings your PCs will face.
+
+> Fred decides he wants to do a space-faring Fate game with a shorter skill list that’s focused on action-words. He settles on this 9-item skill list: Fight, Know, Move, Notice, Pilot, Sneak, Speak, Tinker, and Will. He also likes the idea of a “diamond” shape for skill ratings rather than a pyramid, so he has players rate their starting skills as follows: 1 at Great (+4), 2 at Good (+3), 3 at Fair (+2), 2 at Average (+1), and 1 at Mediocre (+0). His PCs will have a lot of overlap and core competencies due to the fat middle of his diamond, while still enjoying some niche protections at the top of the diamond’s “point.”
+
 ## Changing the Skill List
 
-As mentioned on **page XX** skill lists are the first thing to consider tinkering with when making your own Fate game. Our default skill setup presents a list of 19 skills arranged in a pyramid of 10\. That list is also structured around a traditional notion of capabilities in various fields of action, in essence addressing the question “what can you do?” Other skill lists aren’t necessarily the same length, arranged the same way, or addressing the same question. With that said, here are some short skill lists to consider, borrow, and modify.
+Our default skill setup presents a list of 19 skills arranged in a pyramid of 10\. That list is also structured around a traditional notion of capabilities in various fields of action, in essence addressing the question “what can you do?” Other skill lists aren’t necessarily the same length, arranged the same way, or addressing the same question. With that said, here are some short skill lists to consider, borrow, and modify.
 
 *   **Actions:** Endure, Fight, Know, Move, Notice, Pilot, Sneak, Speak, Tinker.
 *   **Approaches:** Careful, Clever, Flashy, Forceful, Quick, Sneaky.
@@ -979,11 +1071,6 @@ If you want a longer list, try starting with the default list, adding, combining
 
 **Combination:** You may want to have two lists, with players adding together one from each to make their roll. The main thing to keep in mind is keeping the potential totals inside the zero-to-cap range. You might have ratings from +0 to +2 on each list, or -1 to +1 on one and +1 to +3 on the other, etc.
 
-## Character Creation As You Play
-
-If a player is comfortable making quick creative decisions in the moment, they may enjoy creating characters _as they play_ rather than ahead of time. This mimics the way characters reveal themselves and develop in other media. It’s not for everyone, but for groups where the method clicks it can be a real crowd-pleaser.
-
-With this method, characters start with only a name, high concept aspect, and highest skill—if that! As play progresses and they are called on to use an unrated skill, they can choose an empty slot and reveal their knowledge of it in the moment. Similarly, aspects and stunts can be filled in when the circumstances that call for them, right in the moment a fate point is spent or a bonus claimed.
 
 ## <a id="_idTextAnchor027"></a>Countdowns
 
