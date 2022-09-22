@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   /* never change the line height, it is perfect */
-  line-height: 1.2;
+  line-height: 1.1;
   font-family: Fira sans;
   font-size: 18px;
 }
@@ -34,8 +34,7 @@ blockquote {
   padding-left: 8px;
   border-left: 4px solid gray;
   line-height: 1;
-  font-size: 19px;
-  font-weight:400;
+  font-weight: 400;
   font-family: Cabin;
 }
 
@@ -88,7 +87,13 @@ tr {
 #what-can-i-do-with-aspects,
 #compels,
 #events-and-descisions,
-#how-can-i-add-and-remove-aspects, #events-and-decisions, #turn-order, #challenges, #stress, #will {
+#retroactive-compels,
+#how-can-i-add-and-remove-aspects,
+#events-and-decisions,
+#turn-order,
+#challenges,
+#stress,
+#will {
   page-break-before: always;
 }
 .pb {

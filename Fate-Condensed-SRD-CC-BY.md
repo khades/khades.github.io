@@ -487,7 +487,7 @@ Your outcomes when attacking are:
 *   **If you succeed,** you deal a hit equal to the difference between your attack’s total and the defense’s effort. The defender must absorb this hit with stress or consequences, or else be taken out (**page XX**).
 *   **If you succeed with style,** you deal a hit just like a success, but you may reduce the shifts of the hit by one to get a boost.
 
-Ruth has stumbled across a corpse raised by arcane powers to fulfill some dark purpose. She decides to punch it. She has Great (+4) Fight but rolls <dice>[-][-][0][0]</dice>, giving a Fair (+2) effort.
+> Ruth has stumbled across a corpse raised by arcane powers to fulfill some dark purpose. She decides to punch it. She has Great (+4) Fight but rolls <dice>[-][-][0][0]</dice>, giving a Fair (+2) effort.
 
 ### Defend
 
@@ -504,9 +504,9 @@ Your outcomes when defending are:
 *   **If you succeed,** you don’t take a hit or you deny the enemy’s action.
 *   **If you succeed with style,** you don’t take a hit, you deny the enemy’s action, and you even get a boost as you gain the upper hand for a moment.
 
-Continuing from the previous example, the corpse gets to defend itself against Ruth. The GM rolls <dice>[-][0][0][+]</dice>, which doesn’t change the creature’s Mediocre (+0) Athletics.
-
-Because Ruth’s effort was higher, her attack succeeds by two shifts, and the corpse is a little closer to being down for good. Had the corpse rolled better, then its defense would have succeeded, and the undead monstrosity would have avoided taking a hit.
+> Continuing from the previous example, the corpse gets to defend itself against Ruth. The GM rolls <dice>[-][0][0][+]</dice>, which doesn’t change the creature’s Mediocre (+0) Athletics.
+>
+> Because Ruth’s effort was higher, her attack succeeds by two shifts, and the corpse is a little closer to being down for good. Had the corpse rolled better, then its defense would have succeeded, and the undead monstrosity would have avoided taking a hit.
 
 #### Which skills can be used to attack and defend?
 
@@ -708,9 +708,9 @@ Often, you won’t need to know who is acting precisely when, but in contests an
 
 At the start of a scene, the GM and players decide who goes first based on the situation, then the active player picks who goes next. The GM’s characters are selected in the turn order just like the PCs, with the GM deciding who goes next after the NPCs have acted. After everyone has taken a turn, the last player picks who goes next at the start of the next exchange.
 
-Cassandra and Ruth have stumbled across a small group of cultists, led by an acolyte in a golden mask, performing some arcane ritual. Because the cultists are focused on their work, the GM declares that the PCs will go first in this conflict. The players decide that Cassandra will act first: she creates an advantage against the masked cultist, **Distracted**, by running directly at them screaming. It’s crude but effective. To make the best use of the situation aspect, Cassandra’s player decides that Ruth should go next. Ruth throws a dagger at the masked acolyte, and immediately invokes **Distracted** to improve her attack. It’s not enough to take out the acolyte in one hit, but it is a one-two punch that leaves the cultist reeling.
-
-Unfortunately, now that all the PCs in the scene have acted, Ruth has no choice but to pick one of the cultists to go next. She chooses the masked acolyte. The GM smiles, because they know that once the acolyte acts, she can have the cultists act until the end of the round, at which point they can choose the masked acolyte to start the next exchange. The PCs may have gotten a good first hit in, but now the cultists get to fight back.
+> Cassandra and Ruth have stumbled across a small group of cultists, led by an acolyte in a golden mask, performing some arcane ritual. Because the cultists are focused on their work, the GM declares that the PCs will go first in this conflict. The players decide that Cassandra will act first: she creates an advantage against the masked cultist, **Distracted**, by running directly at them screaming. It’s crude but effective. To make the best use of the situation aspect, Cassandra’s player decides that Ruth should go next. Ruth throws a dagger at the masked acolyte, and immediately invokes **Distracted** to improve her attack. It’s not enough to take out the acolyte in one hit, but it is a one-two punch that leaves the cultist reeling.
+>
+>Unfortunately, now that all the PCs in the scene have acted, Ruth has no choice but to pick one of the cultists to go next. She chooses the masked acolyte. The GM smiles, because they know that once the acolyte acts, she can have the cultists act until the end of the round, at which point they can choose the masked acolyte to start the next exchange. The PCs may have gotten a good first hit in, but now the cultists get to fight back.
 
 This method of determining turn order goes by several names in online discussion: elective action order, and “popcorn,” “handoff,” or “Balsera Style” initiative, the last one named after Fate Core author Leonard Balsera, who planted the seed of the idea. You can learn more about this method and its strategies at [https://www.deadlyfredly.com/2012/02/marvel/](https://www.deadlyfredly.com/2012/02/marvel/)
 
@@ -870,7 +870,7 @@ If the GM feels a major plot development has concluded and it’s time for the c
 
 When improving a skill rating, you must maintain a “column” structure. Each step may not have more skills than the step below it. That may mean you need to promote a few Mediocre (+0) skills first—or, you may save up your skill points rather than spend them immediately, allowing big increases all at once.
 
-Ruth wants to increase her Lore from Average (+1) to Fair (+2), but this means she’d have four Fair (+2) skills and only three Average (+1)…that won’t do. Luckily, she has saved a second skill point from an earlier milestone, so she also increases her Mediocre (+0) Empathy to Average (+1). Now she has one Great (+4), two Good (+3), four Fair (+2), and four Average (+1) skills.
+> Ruth wants to increase her Lore from Average (+1) to Fair (+2), but this means she’d have four Fair (+2) skills and only three Average (+1)…that won’t do. Luckily, she has saved a second skill point from an earlier milestone, so she also increases her Mediocre (+0) Empathy to Average (+1). Now she has one Great (+4), two Good (+3), four Fair (+2), and four Average (+1) skills.
 
 <div class="pyramid">
 <div class="pyramid--item">
