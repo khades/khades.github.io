@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   /* never change the line height, it is perfect */
-  line-height: 1.1;
+  line-height: 1.05;
   font-family: Fira sans;
   font-size: 18px;
 }
@@ -71,14 +71,12 @@ tr {
 
 #static-defences,
 #skill-list,
-#refresh,
 #improving-skill-ratings,
 #skills,
 #aspects,
 #character-aspects,
 #failure,
-#success,
-#overcome,
+#actions,
 #difficulty-and-opposition,
 #tie,
 #create-an-advantage,
@@ -93,7 +91,8 @@ tr {
 #turn-order,
 #challenges,
 #stress,
-#will {
+#will,
+#getting-taken-out, #scale-things-up, #ways-to-handle-multiple-targets  {
   page-break-before: always;
 }
 .pb {
@@ -170,6 +169,14 @@ h2 {
 }
 .pyramid--item {
   margin-left: 16px;
+}
+.skills ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+.skills li {
+  width: 25%;
 }
 /*  pandoc -s -c format.css  rawsix-redo.md -o rawsix-redo.html && wkhtmltopdf -B 6 -L 6 -R 6 -T 6 --enable-local-file-access -s a5 ./rawsix-redo.html a.pdf */
 /* pandoc --pdf-engine=wkhtmltopdf --columns 100 -V margin-top=6 -V margin-left=6 -V margin-right=6 -V margin-bottom=6 --css .\format.css -V papersize=a5 --top-level-division=chapter rawsix-redo.md -o rawsix-redo.pdf */

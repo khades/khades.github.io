@@ -580,7 +580,7 @@ You can also invoke aspects for free, _if_ you have a free invoke from you or an
 
 If you want an easy way to ensure you have room to incorporate aspects into a roll, try narrating your action with an ellipsis at the end (“...”), and then finish the action with the aspect you want to invoke. Like this:
 
-Ryan says, “So I’m trying to decipher the runes and...” (rolls the dice, hates the result) “...and **If I Haven’t Been There, I’ve Read About It**...” (spends a fate point) “...so I easily start rambling about their origin.”
+> Ryan says, “So I’m trying to decipher the runes and...” (rolls the dice, hates the result) “...and **If I Haven’t Been There, I’ve Read About It**...” (spends a fate point) “...so I easily start rambling about their origin.”
 
 #### Hostile Invocations
 

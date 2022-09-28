@@ -1,0 +1,2 @@
+node replace-dice.js ./fate-recondensed.md ./fate-dice.md && pandoc -s -c fate.css fate-dice.md -o fate.html
+pdfxup -b -m 1cm fate-dice.pdf // for a booklet on linux, after getting the paper, last page forward face up, then reorder the pages
