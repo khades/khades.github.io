@@ -29,7 +29,7 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 -- | -- | -- | -- | --
 ~~No Rest For Living~~ | - | 1.5 | 2.5/5 | Tad better than doom 2
 ~~Lunatic~~ | - | 1.5 | 3.5/5 | Tad worse than Valiant, but same themes of lunar surface, still great. Really easy.
-~~Vanguard~~| -- | 3 | 4/5 | i like it better than Valiant, smaller maps. While somewhat dense with monsters, smaller maps have better "progression" overall, especially when i play without any challenge of doing everything 100%. Maps look "slaugthery", but encounters are skippable. A pleasure to play for that small package. It is fun to restart play doom after half-year break with that WAD. 
+~~Vanguard~~| -- | 2.5 | 4/5 | i like it better than Valiant, smaller maps. While somewhat dense with monsters, smaller maps have better "progression" overall, especially when i play without any challenge of doing everything 100%. Maps look "slaugthery", but encounters are skippable. A pleasure to play for that small package. It is fun to restart play doom after half-year break with that WAD. 
 Back to saturn x ep1| -- | -- | -- | --
 Back to saturn x ep2| -- | -- | -- | --
 Going Down| -- | -- | -- | --
