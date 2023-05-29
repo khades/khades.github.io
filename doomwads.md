@@ -22,6 +22,7 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 Resurgence|5 | 5 | 4.5/5 | Started to watch Dean Of Doom at later parts of Speed of Doom and AV. At that time i feel that i overly burned out playing doom. I shortened the list itself to having just Scythe II and Sunlust. The wad itself? GOOOD. Overall design of starting parts are like "You'll die several times exporting starting areas to find places to hide or pickup or save yourself". At the same time some maps are designed in wastly different ways, so combat flows differenty a lot of times. I'd say that Kama sutra was somewhat stingy on overall graphical design, but SOD and Resurge are that level of GOOD that i cant even call it "RETRO AESTHETICS", it is just good. Countrary to Dean of Doom i find it being harder than SOD.
 Scythe II|5
 Sunlust|6
+Plutonia 2| 4 | -- | -- | Want to play it, since a lot of maps done by one of the Kama Sutra author
 
 # Just sidetracking
 
@@ -35,9 +36,8 @@ Back to saturn x ep2| -- | -- | -- | --
 Going Down| -- | -- | -- | --
 Heartland| -- | -- | -- | --
 REKKR| -- | -- | -- | --
-Sunder| -- | -- | -- | --
-Plutonia 2| -- | -- | -- | --
-Plutonia Revisited| -- | -- | -- | --
+Sunder| 6 | -- | -- | --
+Plutonia Revisited| 4 | -- | -- | --
 TNT: Revilution| -- | -- | -- | --
 Struggle - Antaresian Legacy| -- | -- | -- | --
 Antaresian Reliquary| -- | -- | -- | --
