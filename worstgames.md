@@ -53,7 +53,7 @@ Remaster\Re-release
 
 Feature Creep
 
-# Games that triggered a lot of controversies which made game quality irrelevant (might be any quality)
+# Underwhelming or bad games
 
 ## Level 2 - Big titles that were bad at release, but were fixed after and became good or even great
 
