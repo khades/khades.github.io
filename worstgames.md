@@ -185,6 +185,7 @@ FMV games of SegaCD\CDI (Plumbers dont wear ties, White man cant jump etc)
 
 Quiet man
 
+
 ## Level 9 - Offensive concept done especially bad: gruesome wet fart (controversial game subject that didn't made a good game)
 
 https://en.wikipedia.org/wiki/Super_Columbine_Massacre_RPG!
@@ -206,6 +207,8 @@ https://en.wikipedia.org/wiki/Category:Erotic_video_games
 House Party 
 
 Woman assault games
+
+https://en.wikipedia.org/wiki/The_Guy_Game
 
 ## Level 11 - failed effort - ITS RAW - underdeveloped games with underdeveloped concepts
 
