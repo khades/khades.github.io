@@ -43,9 +43,9 @@ Plutonia Revisited| 4 | -- | -- | --
 TNT: Revilution| -- | -- | -- | --
 Struggle - Antaresian Legacy| -- | -- | -- | --
 Antaresian Reliquary| -- | -- | -- | --
+Auger: Zenith -- | -- | -- | --
+Deus Vult II|5| -- | -- | --
 Swim With The Whales| - | | | IT WAS BAD IDEA TO START PLAYING IT AFTER SPEED OF DOOM, PAAAAIN
 Stardate 20x6| -- | -- | -- | --
 Stardate 20X7| -- | -- | -- | --
 Italo Doom | -- | -- | -- | --
-Auger: Zenith -- | -- | -- | --
-Deus Vult II|5| -- | -- | --
