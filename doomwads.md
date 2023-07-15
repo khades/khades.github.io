@@ -19,10 +19,10 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~Kama Sutra~~ |4 | 4 |4/5| Its like Requiem with difficulty of Hell Revealed, but done right and fun. Start to become hard on map13. Starts to be REAL hard at map 23, and sadly loses some of polish. Worth playing. Pretty obvious of design shifting from classic to modern.
 ~~Speed of Doom~~|4| 5 | 4.5/5 | Well i kinda get the idea of more modern map design, cause there's stark difference between SOD and kama sutra in textures and overall layout, but NOT in encounters. SOD is like just more polished Kama Sutra. It gets to level of Hell Revealed hardness, but difficulty ramp is GREAT. Even tho i have hard times with some maps (like map27 that gets too stressful for me), there's satisfaction of finishing level, that thing that was absent in most hard Hell Revealed maps.
 ~~Alien Vendetta~~ |4 | 4.5 | 3/5 | Should've played it right before Kama sutra?  Classic design, quite obvious it was created when doom was played on 320x200 resolution. Less details than KS, but more solid setting. Encounters are not as good as in Kama Sutra or Speed of Doom. From level 20 it gets kinda boring and non-rewarding (unlike speed of doom and kama sutra).
-Resurgence|5 | 5 | 4.5/5 | Started to watch Dean Of Doom at later parts of Speed of Doom and AV. At that time i feel that i overly burned out playing doom. I shortened the list itself to having just Scythe II and Sunlust. The wad itself? GOOOD. Overall design of starting parts are like "You'll die several times exporting starting areas to find places to hide or pickup or save yourself". At the same time some maps are designed in wastly different ways, so combat flows differenty a lot of times. I'd say that Kama sutra was somewhat stingy on overall graphical design, but SOD and Resurge are that level of GOOD that i cant even call it "RETRO AESTHETICS", it is just good. Countrary to Dean of Doom i find it being harder than SOD.
+Resurgence|5 | 5 | 4.5/5 | Started to watch Dean Of Doom at later parts of Speed of Doom and AV. At that time i feel that i overly burned out playing doom. I shortened the list itself to having just Scythe II and Sunlust. The wad itself? GOOOD. Overall design of starting parts are like "You'll die several times exporting starting areas to find places to hide or pickup or save yourself". At the same time some maps are designed in wastly different ways, so combat flows differenty a lot of times. I'd say that Kama sutra was somewhat stingy on overall graphical design, but SOD and Resurge are that level of GOOD that i cant even call it "RETRO AESTHETICS", it is just good. Countrary to Dean of Doom i find it being harder than SOD. It goes HAAAAAAAAARD as fuck at last 10 levels
 Scythe II|5
 Sunlust|6
-Plutonia 2| 4 | -- | -- | Want to play it, since a lot of maps done by one of the Kama Sutra author
+
 
 # Just sidetracking
 
@@ -31,6 +31,8 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~No Rest For Living~~ | - | 1.5 | 2.5/5 | Tad better than doom 2
 ~~Lunatic~~ | - | 1.5 | 3.5/5 | Tad worse than Valiant, but same themes of lunar surface, still great. Really easy.
 ~~Vanguard~~| -- | 2.5 | 4/5 | i like it better than Valiant, smaller maps. While somewhat dense with monsters, smaller maps have better "progression" overall, especially when i play without any challenge of doing everything 100%. Maps look "slaugthery", but encounters are skippable. A pleasure to play for that small package. It is fun to restart play doom after half-year break with that WAD. 
+~~Sawdust~~ | -- | 4 | 3/5 | Uneven difficulty, overall it is Valiant, i kinda see why it didnt fit in Valiant.
+Plutonia 2| 4 | -- | -- | Want to play it, since a lot of maps done by one of the Kama Sutra author
 Back to saturn x ep1| -- | -- | -- | --
 Back to saturn x ep2| -- | -- | -- | --
 Going Down| -- | -- | -- | --
