@@ -53,3 +53,5 @@ Dimensions | -- | -- | -- | HAHAHA unlikely
 Judgement| -- | -- | -- | PLAY NEXT!!!!!
 Lost magic| -- | -- | -- | 
 That Cyriak mapset about submarine | -- | -- | -- 
+Sigil II | -- | -- | -- 
+Eviternity II | -- | -- | --
