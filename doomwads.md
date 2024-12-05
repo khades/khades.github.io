@@ -35,7 +35,7 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 Plutonia 2| 4 | -- | -- | Want to play it, since a lot of maps done by one of the Kama Sutra author
 Back to saturn x ep1| -- | -- | -- | --
 Back to saturn x ep2| -- | -- | -- | --
-Going Down| -- | 3 | 4/5 | goooood ^_______^
+Going Down| -- | 4 | 4/5 | goooood ^_______^
 Heartland| -- | -- | -- | --
 REKKR| -- | -- | -- | --
 Sunder| 6 | -- | -- | --
