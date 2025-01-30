@@ -35,7 +35,7 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 Plutonia 2| 4 | -- | -- | Want to play it, since a lot of maps done by one of the Kama Sutra author
 Back to saturn x ep1| -- | -- | -- | --
 Back to saturn x ep2| -- | -- | -- | --
-~~Going Down~~| -- | 4 | 4/5 | goooood ^_______^. Music is insanely questionable yeh, but a lot of charm with small maps and almost-slaughter maps.
+~~Going Down~~| -- | 4 | 4/5 | goooood ^_______^. Music is insanely questionable yeh, but a lot of charm with small maps and almost-slaughter maps. I mean maps 26-28 big in quanitity of enemies but far far simplier than map30 of resurgence or similar wads.
 Heartland| -- | -- | -- | --
 REKKR| -- | -- | -- | --
 Sunder| 6 | -- | -- | --
