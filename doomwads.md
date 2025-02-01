@@ -1,5 +1,5 @@
 # Grind to Sunlust
-![./4qoee3g.jpg](./4qoee3g.jpg)
+![./4qoee3g.jpeg](./4qoee3g.jpeg)
 ![./C1WfTWRUQAACSdE.jpeg](./C1WfTWRUQAACSdE.jpeg)
 Name | Announced Difficulty | Actual Difficulty | Rating | review
 -- | -- | -- | -- | --
