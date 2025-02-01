@@ -1,6 +1,6 @@
 # Grind to Sunlust
-![https://i.imgur.com/4qoee3g.jpg](https://i.imgur.com/4qoee3g.jpg)
-
+![./4qoee3g.jpg](./4qoee3g.jpg)
+![./C1WfTWRUQAACSdE.jpeg](./C1WfTWRUQAACSdE.jpeg)
 Name | Announced Difficulty | Actual Difficulty | Rating | review
 -- | -- | -- | -- | --
 ~~Ultimate Doom~~ | 1 | 1 | 3/5 | Good wad with proper structure due to episodes.
@@ -41,10 +41,12 @@ REKKR| -- | -- | -- | --
 Sunder| 6 | -- | -- | --
 Plutonia Revisited| 4 | -- | -- | --
 TNT: Revilution| -- | -- | -- | --
+TNT: Devilution 2 | -- | -- | -- | --
 Struggle - Antaresian Legacy| -- | -- | -- | --
 Antaresian Reliquary| -- | -- | -- | --
 Auger: Zenith | -- | -- | -- | --
 Deus Vult II|5| -- | -- | --
+Magnolia | -- | -- | -- | --
 Swim With The Whales| - | | | IT WAS BAD IDEA TO START PLAYING IT AFTER SPEED OF DOOM, PAAAAIN
 Stardate 20x6| -- | -- | -- | --
 Stardate 20X7| -- | -- | -- | --
@@ -56,3 +58,4 @@ That Cyriak mapset about submarine | -- | -- | --
 Sigil II | -- | -- | -- 
 Eviternity II | -- | -- | --
 Legacy of Rust | -- | -- | --
+stuff from bethesda mods like no end in sight, doom zero | -- | -- | --
