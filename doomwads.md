@@ -54,7 +54,7 @@ Italo Doom | -- | -- | -- | --
 Dimensions | -- | -- | -- | HAHAHA unlikely
 Judgement| -- | -- | -- | PLAY NEXT!!!!!
 Lost magic| -- | -- | -- | 
-That Cyriak mapset about submarine | -- | -- | -- 
+That Cyriak mapset about submarine | -- | -- | 2.5/5 | for some reason i dont like it as much as going down 
 Sigil II | -- | -- | -- 
 Eviternity II | -- | -- | --
 Legacy of Rust | -- | -- | --
