@@ -34,6 +34,7 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~Vanguard~~| -- | 2.5 | 4/5 | i like it better than Valiant, smaller maps. While somewhat dense with monsters, smaller maps have better "progression" overall, especially when i play without any challenge of doing everything 100%. Maps look "slaugthery", but encounters are skippable. A pleasure to play for that small package. It is fun to restart play doom after half-year break with that WAD. 
 ~~Sawdust~~ | -- | 4 | 3/5 | Uneven difficulty, overall it is Valiant, i kinda see why it didnt fit in Valiant.
 Plutonia 2| 4 | -- | -- | Want to play it, since a lot of maps done by one of the Kama Sutra author
+Doom the way ID did  | -- | 1 | 3.5/5 | good
 Back to saturn x ep1| -- | -- | -- | --
 Back to saturn x ep2| -- | -- | -- | --
 ~~Going Down~~| -- | 4 | 4/5 | goooood ^_______^. Music is insanely questionable yeh, but a lot of charm with small maps and almost-slaughter maps. I mean maps 26-28 big in quanitity of enemies but far far simplier than map30 of resurgence or similar wads.
@@ -54,7 +55,7 @@ Italo Doom | -- | -- | -- | --
 Dimensions | -- | -- | -- | HAHAHA unlikely
 Judgement| -- | -- | -- | PLAY NEXT!!!!!
 Lost magic| -- | -- | -- | 
-That Cyriak mapset about submarine | -- | -- | 2.5/5 | for some reason i dont like it as much as going down 
+That Cyriak mapset about submarine | -- | -- | 2.5/5 | for some reason i dont like it as much as going down, dropped down temporarily
 Sigil II | -- | -- | -- 
 Eviternity II | -- | -- | --
 Legacy of Rust | -- | -- | --
