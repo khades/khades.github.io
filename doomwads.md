@@ -34,7 +34,8 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~Vanguard~~| -- | 2.5 | 4/5 | i like it better than Valiant, smaller maps. While somewhat dense with monsters, smaller maps have better "progression" overall, especially when i play without any challenge of doing everything 100%. Maps look "slaugthery", but encounters are skippable. A pleasure to play for that small package. It is fun to restart play doom after half-year break with that WAD. 
 ~~Sawdust~~ | -- | 4 | 3/5 | Uneven difficulty, overall it is Valiant, i kinda see why it didnt fit in Valiant.
 Plutonia 2| 4 | -- | -- | Want to play it, since a lot of maps done by one of the Kama Sutra author
-~~Doom the way ID did + Ultimate DTWID~~  | -- | 1.5 | 4/5 | Good, it is simplistic, but not barren. Well needed break after Resurgence and Scythe. I used voxel and added Ultimate DTWID to it, great time. I am amazed how different maps can be in Doom. Last map is too cryptic.
+~~Doom the way ID did~~  | -- | 1.5 | 4/5 | Good, Just right, not overly ambitious, just classic design.  I used voxels, brightmaps and Woof, great time. I am amazed how different maps can be in Doom. 
+~~Ultimate Doom the way ID did~~ | -- | 2.5 | 2.5/5 | Stars good, last maps are genuinly difficult. Last map is genuinly bad in my opinion,  just cryptic labyrinth with obscure puzzles and unclear goals.
 Back to saturn x ep1| -- | -- | -- | --
 Back to saturn x ep2| -- | -- | -- | --
 ~~Going Down~~| -- | 4 | 4/5 | goooood ^_______^. Music is insanely questionable yeh, but a lot of charm with small maps and almost-slaughter maps. I mean maps 26-28 big in quanitity of enemies but far far simplier than map30 of resurgence or similar wads.
