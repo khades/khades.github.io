@@ -36,6 +36,7 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 Plutonia 2| 4 | -- | -- | Want to play it, since a lot of maps done by one of the Kama Sutra author
 ~~Doom the way ID did~~  | -- | 1.5 | 4/5 | Good, Just right, not overly ambitious, just classic design.  I used voxels, brightmaps and Woof, great time. I am amazed how different maps can be in Doom. 
 ~~Ultimate Doom the way ID did~~ | -- | 2.5 | 2.5/5 | Stars good, last maps are genuinly difficult. Last map is genuinly bad in my opinion,  just cryptic labyrinth with obscure puzzles and unclear goals.
+2002 A Doom Oddysey | -- | 1.5 | 3.5/5 | Tad blander than Doom the way ID did
 Back to saturn x ep1| -- | -- | -- | --
 Back to saturn x ep2| -- | -- | -- | --
 ~~Going Down~~| -- | 4 | 4/5 | goooood ^_______^. Music is insanely questionable yeh, but a lot of charm with small maps and almost-slaughter maps. I mean maps 26-28 big in quanitity of enemies but far far simplier than map30 of resurgence or similar wads.
