@@ -29,6 +29,7 @@ Sunlust|6
 
 Name | Announced Difficulty | Actual Difficulty | Rating | review
 -- | -- | -- | -- | --
+TNT Wads | - | 
 ~~No Rest For Living~~ | - | 1.5 | 3.5/5 | Tad better than doom 2
 ~~Lunatic~~ | - | 1.5 | 3/5 | Tad worse than Valiant, but same themes of lunar surface, still great. Really easy.
 ~~Vanguard~~| -- | 2.5 | 4/5 | i like it better than Valiant, smaller maps. While somewhat dense with monsters, smaller maps have better "progression" overall, especially when i play without any challenge of doing everything 100%. Maps look "slaugthery", but encounters are skippable. A pleasure to play for that small package. It is fun to restart play doom after half-year break with that WAD. 
@@ -36,9 +37,14 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 Plutonia 2| 4 | -- | -- | Want to play it, since a lot of maps done by one of the Kama Sutra author
 ~~Doom the way ID did~~  | -- | 1.5 | 4/5 | Good, Just right, not overly ambitious, just classic design.  I used voxels, brightmaps and Woof, great time. I am amazed how different maps can be in Doom. 
 ~~Ultimate Doom the way ID did~~ | -- | 2.5 | 2.5/5 | Stars good, last maps are genuinly difficult. Last map is genuinly bad in my opinion,  just cryptic labyrinth with obscure puzzles and unclear goals.
-2002 A Doom Oddysey | -- | 1.5 | 3.5/5 | Tad blander than Doom the way ID did
+2002 A Doom Oddysey | -- | 1.5 | 3.5/5 | Tad blander than Doom the way ID did, somewhat outdated encounter, like e2m7 corridor with many singular imps - just outdated.
 Back to saturn x ep1| -- | -- | -- | --
 Back to saturn x ep2| -- | -- | -- | --
+Jenesis| -- | -- | -- | --
+Grove| -- | -- | -- | --
+Community chests | -- | --- | -- | --
+Newdoom Community Project S| -- | --
+Congestion 1024 | -- 
 ~~Going Down~~| -- | 4 | 4/5 | goooood ^_______^. Music is insanely questionable yeh, but a lot of charm with small maps and almost-slaughter maps. I mean maps 26-28 big in quanitity of enemies but far far simplier than map30 of resurgence or similar wads.
 REKKR| -- | -- | -- | --
 Sunder| 6 | -- | -- | --
@@ -57,8 +63,34 @@ Italo Doom | -- | -- | -- | --
 Dimensions | -- | -- | -- | HAHAHA unlikely
 Judgement| -- | -- | -- | PLAY NEXT!!!!!
 Lost magic| -- | -- | -- | 
-That Cyriak mapset about submarine | -- | -- | 2.5/5 | for some reason i dont like it as much as going down, dropped down temporarily
+Overboard | -- | -- | 2.5/5 | for some reason i dont like it as much as going down, dropped down temporarily
 Sigil II | -- | -- | -- 
 Eviternity II | -- | -- | --
 Legacy of Rust | -- | -- | --
 stuff from bethesda mods like no end in sight, doom zero | -- | -- | --
+
+# Maybe (Aka just sidetracking 2)
+
+Name | Announced Difficulty | Actual Difficulty | Rating | review
+-- | -- | -- | -- | --
+epic and epic 2 |  -- | -- | -- | --
+Combat Shock 2 |
+MAYhem 2048 |
+Constriction 1024 - |
+Lost Civilization|
+Heartland|
+Intergalactic Xenology Trilogy| -- | -- | -- | People say that's Ancient Aliens wannabe
+Corruption|
+Mayhem 2018: Purple and Orange |
+Tangerine Nightmare |
+Unwelcome| -- | -- | -- | that one with glitched graphics but not lilith
+NeoDoom |
+Dark Tartarus |
+Sleepwalking |
+Formless Mother| 
+Bitter Dream |
+House of Dead Skin|
+Nostalgic Entropy: Neo Retro | -- | -- | -- | Looking great
+Necromantic Thirst |
+Umbra |
+Oops... All Ghosts! |
