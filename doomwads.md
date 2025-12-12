@@ -24,7 +24,9 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 ~~Scythe II~~| 5| 6| 4.5/5 | I see why it is liked so much. Overall difficulty progression is not as even as in SoD, just hardstops at level 23 like "fuck you, now we are slaughters maps". Design and arhitectyre is great. Screw map31, just screw it. Last episode is brutal, but i'd say that it is sliiighly easier than Resurge. It is way too more memorable and i get the praise, but given there's better maps nowadays i can't assign 5/5 for it
 Sunlust|6
 
+# Stuff to add to autoload
 
+https://www.doomworld.com/forum/topic/130774-muumipack-v3-muumis-resource-of-animated-textures-huge-2025-update/
 # Just sidetracking
 
 Name | Announced Difficulty | Actual Difficulty | Rating | review
@@ -93,4 +95,7 @@ House of Dead Skin|
 Nostalgic Entropy: Neo Retro | -- | -- | -- | Looking great
 Necromantic Thirst |
 Umbra |
+Neon Overdrive |
 Oops... All Ghosts! |
+Doom 2 in Rural Only |
+Squenched Avacausage |
