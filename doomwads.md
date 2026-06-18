@@ -33,13 +33,13 @@ Name | Announced Difficulty | Actual Difficulty | Rating | review
 -- | -- | -- | -- | --
 TNT Wads | - | 
 ~~No Rest For Living~~ | - | 1.5 | 3.5/5 | Tad better than doom 2
-~~Lunatic~~ | - | 1.5 | 3/5 | Tad worse than Valiant, but same themes of lunar surface, still great. Really easy.
+~~Lunatic~~ | - | 1.5 | 3.5/5 | Tad worse than Valiant, but same themes of lunar surface, still great. Really easy.
 ~~Vanguard~~| -- | 2.5 | 4/5 | i like it better than Valiant, smaller maps. While somewhat dense with monsters, smaller maps have better "progression" overall, especially when i play without any challenge of doing everything 100%. Maps look "slaugthery", but encounters are skippable. A pleasure to play for that small package. It is fun to restart play doom after half-year break with that WAD. 
 ~~Sawdust~~ | -- | 4 | 3/5 | Uneven difficulty, overall it is Valiant, i kinda see why it didnt fit in Valiant.
 Plutonia 2| 4 | -- | -- | Want to play it, since a lot of maps done by one of the Kama Sutra author
 ~~Doom the way ID did~~  | -- | 1.5 | 4/5 | Good, Just right, not overly ambitious, just classic design.  I used voxels, brightmaps and Woof, great time. I am amazed how different maps can be in Doom. 
 ~~Ultimate Doom the way ID did~~ | -- | 2.5 | 2.5/5 | Stars good, last maps are genuinly difficult. Last map is genuinly bad in my opinion,  just cryptic labyrinth with obscure puzzles and unclear goals.
-2002 A Doom Oddysey | -- | 1.5 | 2.5/5 | Tad blander than Doom the way ID did, somewhat outdated encounter, like e2m7 corridor with many singular imps - just outdated. Author prolly thought that shotgunners are so fun to fight against so he put loads of them, but they are not fun in that volume and predictiability. And it's getting more stale every level, somehow 2002ADO managed to highlight all the flaws on doom1.
+~~2002 A Doom Oddysey~~ | -- | 1.5 | 2.5/5 | Tad blander than Doom the way ID did, somewhat outdated encounter, like e2m7 corridor with many singular imps - just outdated. Author prolly thought that shotgunners are so fun to fight against so he put loads of them, but they are not fun in that volume and predictiability. And it's getting more stale every level, somehow 2002ADO managed to highlight all the flaws on doom1. Since there's so many shotgunners whole gameplay feels like you're doing map32 plutonia with just regular shotgun, ew.
 Back to saturn x ep1| -- | -- | -- | --
 Back to saturn x ep2| -- | -- | -- | --
 Jenesis| -- | -- | -- | --
